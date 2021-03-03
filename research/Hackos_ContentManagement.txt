@@ -1,0 +1,22 @@
+JoAnn T, Hackos. 
+Content Management for Dynamic Web Delivery
+Wiley
+2001 New York
+
+P. 124f
+An Information Model is an organizational framework that you use to categorize your information resources. . . . An Information Model might encompass the inormation resources of one part of an organization. 
+
+P 185
+People prefer to read technical information in small, self-contained chunks, called modules. Modules are self-contained units of information that a customer can understand by themsleves, without reference to other information. A modular design accommodates those who want to move quickly to a topic they need and easily find related topics.
+
+P 194f
+Embodied in the architectures
+These principles [topic orientation, information typing, specialization, inheritable processes] are embodied in two architectures.
+Information architecture
+The information architecture desires what a topic is and what the three core information types are (concept, procedure, and reference).  . . . 
+Specialization architecture
+The specialization architecture describes how new information types of topic are derived from more general types of a topic, and how specialization-aware processes can access topics at whatever level of specialization they require. 
+
+P. 200
+The content units provide a standard structure inside each information type. . . . The user’s task of finding discrete pieces of information is still enhanced by the way the content units are organized and labeled. 
+

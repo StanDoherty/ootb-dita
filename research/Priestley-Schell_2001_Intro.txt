@@ -1,0 +1,9 @@
+The Darwin Information Typing Architecture (DITA) is an XML-based, end-to-end architecture for authoring, producing, and delivering techni cal information. This architecture consists of a set of design principles for creating "information-typed" modules at a topic level and for using that contednt in deliveryu modes such as online help and product support portals on the Web."
+
+The extensible architecture, howwever, is the defining part of this design for technical information.
+
+Benefits of DITA architecture.
+- Encapsulation
+- Polymorphism
+- Message passing
+ 

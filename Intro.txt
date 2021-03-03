@@ -1,0 +1,27 @@
+Intro 
+Goal = know the boundaries
+- make informed decisions about where to invest and  where not. 
+- Know boundaries of each component
+-> editor
+> CCMS
+> ZOOM
+
+For each component:
+- what do i get be default
+- what can I customize ion my own?
+- What are best practices?
+- What are worst practices?
+- Underlying IA 
+
+What is in "the box"?
+- DITA 1.3 grammars
+- DITA-OT
+- DITA-OT plugins
+- Integration tools
+- Processor extensions
+- W3C Schematron
+- XBase / XQuery
+- SVG
+
+
+after 

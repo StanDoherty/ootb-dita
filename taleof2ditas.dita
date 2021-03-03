@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_dsg_1zx_knb">
+    <title>Tale of Two DITAs</title>
+    <body>
+        <p></p>
+        <codeblock>
+            <coderef href="txt_tale2ditas.txt"/>
+        </codeblock>
+    </body>
+</topic>

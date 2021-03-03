@@ -1,0 +1,15 @@
+Don Day, Erik Hennum, John Hunt, Michael Priestley, David Schell
+
+An XML Architecure for Technical Documentation: The Darwin Information Typing Architecture
+
+Retrieved on 10-15-2020 from . . . 
+
+Abstract
+DITA is an architecture fo creating topic-oriented, Information-typed content that can be reused and single-sorted in a variety of ways. It is also an architecture for creating new information types and describing new information domains, allowing groups to create very specific, targeted documentation type definitions using a process called specialization, while at the same time reusing common output transforms and design rules. 
+
+Specialization   . . . applies the well-established principles of inheritance and polymorphism from object-oriented design and applies them to the world of information design. This lets you create new deigns by specializing existing design. At the end of it, you get a customized solution that is still compatible with the existing infrastructure. 
+
+Roles and responsibilities include - type architect, topic writer, information architect, build developer, and information designer.
+
+SJD: Relatively high table stakes to do the OOTB work. Extending or specializing adds more overhead. 
+SJD: This investment was still significantly less expensive than continuing to work on DocBook. BUT — is specialized DITA that much more powerful than OOTB DITA. 

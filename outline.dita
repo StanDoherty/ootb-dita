@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_l4j_qxx_knb">
+    <title>Outline</title>
+    <body>
+        <p></p>
+        <section id="section_gnm_rxx_knb">
+            <title>XXX</title>
+            <codeblock><coderef href="outline1.txt"></coderef></codeblock>
+            <p/>
+        </section>
+    </body>
+</topic>

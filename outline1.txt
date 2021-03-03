@@ -1,0 +1,22 @@
+OUTLINE.TXT
+=======================
+Tale of two DITAs
+	Framework
+	Product
+From good stock
+Boundaries - OOTB
+One topic
+	Information typing
+Many topics
+	Hierarchy
+	Inheritance
+	Connections
+Maps
+Transcludes
+Conditions
+Metadata
+Semantic markup
+Myths
+
+
+

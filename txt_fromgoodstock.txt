@@ -1,0 +1,10 @@
+XML
+OOP/classes
+Java
+Minimalism
+Information typing
+Polymporphism
+Inheritance
+Modular information development
+Separation - content/presentation
+Customer inquiry

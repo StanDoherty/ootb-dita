@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_xy4_21y_knb">
+    <title>One topic</title>
+    <body>
+        <p></p>
+        <codeblock>
+        <coderef href="txt_one-topic.txt"/>
+        </codeblock>
+    </body>
+</topic>

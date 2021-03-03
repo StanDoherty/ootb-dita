@@ -1,0 +1,23 @@
+TXT_TALE2DITAS.txt
+===================================
+Framework
+- extensible
+- scalable
+- for customized content development
+- for customized publishing  applications
+
+
+
+
+
+Product suite
+- OASIS DITA 1.3: ready-to-use set of DTDs
+- DITA editor
+- DITA-OT
+- DITA plugins and add-ons
+
+
+Free stuff
+- Schematron
+- XPath
+- 

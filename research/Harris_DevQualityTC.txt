@@ -1,0 +1,22 @@
+Gretchen Harris et al.
+Developing Quality Technical Information
+New Jersey 2004 2nd ed.
+
+p 217
+To organize information well, follow these guidelines:
+- Organize information into discrete topics by type. 
+- Organize topics by order of use.
+- Organize topics for quick retrieval.
+- Separate contextual information from other types of information.
+- Organize information consistently.
+- Provide an appropriate nuber of subebtries for each branch.
+- Emphasize main points; subordinate secondary points.  
+- Reveal how the pieces fit together. 
+
+218
+Topics are small, discrete, meaningful pieces of information, each wioth a heading. 
+Concept
+Task
+Reference
+
+No mention of specialization

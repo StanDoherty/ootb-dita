@@ -1,0 +1,14 @@
+History of DITA quotations
+Problems to solve:
+some basic topics/maps/processing to publish tech pubs
+a framework to extend or to customize the defsault topics/maps
+> make them less expensive
+> Java
+> Inheritance
+> OOP
+
+DITA maturity matrix
+
+The threshold of features beyond which you had to specilize has been moving. In DITA 1.0 it was low. In DITA 1.3 it is hugh or higher. 
+
+
