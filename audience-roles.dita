@@ -1,8 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="topic_hx5_54m_v4b">
-    <title>Audience and roles</title>
+    <title>Audience</title>
     <body>
-        <p></p>
+        <section id="section_xsm_qhy_bqb">
+            <title>What are we hearing?</title>
+            <p/>
+            <p>OASIS DITA Adoption listening sessions</p>
+            <p>BDUG</p>
+            <p>Conferences</p>
+            <p>Conclusions: </p>
+            <ul id="ul_rqd_shy_bqb">
+                <li>
+                    <p>Shift from big money helping teams get into DITA to money for teams
+                        exploiting their existing DITA implementations.</p>
+                </li>
+                <li>
+                    <p>With machine translation and English, less likely that you can demonstrate
+                        the higher content reuse with DITA reduces localization costs
+                        proportionately.</p>
+                </li>
+                <li>
+                    <p>Content Operations or DevOps want understand how DITA functions in
+                        organizations that optimize roles, processes, and tools an environment that
+                        achho to </p>
+                </li>
+                <li>
+                    <p/>
+                </li>
+                <li>
+                    <p/>
+                </li>
+                <li>
+                    <p/>
+                </li>
+            </ul>
+        </section>
+        <ul id="ul_dwc_x3x_bqb">
+            <li>
+                <p><i>Writing teams considering a move to DITA</i>: </p>
+                <p>Look for sections titled "Migrations and Gyrations".</p>
+            </li>
+            <li>
+                <p><i>Early adopters testing DITA</i>: </p>
+                <p>Look for sections titled "Deployment Tips".</p>
+            </li>
+            <li>
+                <p><i>Undergraduates studying technical communication</i>: </p>
+                <p>Look for sections titled "Hands-on Exercises".</p>
+            </li>
+        </ul>
     </body>
 </topic>

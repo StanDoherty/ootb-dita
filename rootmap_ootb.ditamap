@@ -3,8 +3,8 @@
 <map>
     <title></title>
     <topicref href="outline.dita"/>
-    <topicref href="taleof2ditas.dita"/>
     <topicref href="audience-roles.dita"/>
+    <topicref href="taleof2ditas.dita"/>
     <topicref href="fromgoodstock.dita"/>
     <topicref href="myths.dita"/>
 </map>
