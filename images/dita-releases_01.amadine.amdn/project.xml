@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <Document serializeVersion="15">
-    <InterfaceSettings canvasscale="0.921111" canvasrect="-49.8794,-54.2219,900,704.584" canvasCenter="400.121,298.07" />
+    <InterfaceSettings canvasscale="0.921111" canvasrect="-41.1937,-45.5363,900,704.584" canvasCenter="408.806,306.756" />
     <Drawing snapgrid="0" gridback="1" sheetmovecontent="1" measurementunits="5" guidesvisible="1" guideslocked="0" scalestrokeandeffects="0" issheetdependentrulers="1" marginsenabled="0" margins="0,0,0,0" bleedsenabled="0" bleeds="0,0,0,0" colorformat="0" effectsPpi="150">
         <Sheets count="1" activesheet="0">
             <_0 name="Sheet 1" bound="0,0,800,600" enabled="1" />
@@ -235,8 +235,8 @@
         <Grid size="100,100" subdivisionx="2" subdivisiony="2" color="0.5,0.5,0.5,0.5" visible="0" />
         <Objects count="1" activelayer="0">
             <_0 class="Layer" GUID="{7a5f4e27-cd2a-d344-bfda-4c20481ed64d}" name="Layer 1" visible="1" printable="1" locked="0" opacity="1" blendmode="0" unfolded="1" selectioncolor="0.19,0.55,1,1">
-                <Objects count="17">
-                    <_0 class="RectShape" GUID="{8f7171a7-b7e8-5647-b724-9de9c9b9b3c1}" name="Smart Rectangle" visible="1" printable="1" locked="0" opacity="1" blendmode="0" unfolded="0" ctm="(199.4624241724934,0, 0,210.7976922566847, 17.63340759277341,359.0350103800134)" pivotPoint="0.5,0.5" chamferradius="8,8,8,8" chamfertype="0,0,0,0">
+                <Objects count="30">
+                    <_0 class="RectShape" GUID="{8f7171a7-b7e8-5647-b724-9de9c9b9b3c1}" name="Smart Rectangle" visible="1" printable="1" locked="0" opacity="1" blendmode="0" unfolded="0" ctm="(199.4624241724934,0, 0,210.7976922566847, 17.63340759277341,380.035010380013)" pivotPoint="0.5,0.5" chamferradius="8,8,8,8" chamfertype="0,0,0,0">
                         <drawers count="2">
                             <_0 class="0" name="Stroke" enabled="1" opacity="1" blendmode="0" fillmode="0" stroke="1" salign="0" smode="0">
                                 <solidfiller fill="0,0,0,1" />
@@ -263,7 +263,7 @@
                             </_1>
                         </drawers>
                     </_0>
-                    <_1 class="RectShape" GUID="{a5742660-2f84-b440-be14-27ed4c3c40f7}" name="Smart Rectangle" visible="1" printable="1" locked="0" opacity="1" blendmode="0" unfolded="0" ctm="(178.6091576480973,0, 0,44.49692575787014, 26.02659988403319,367.9530002774688)" pivotPoint="0.5,0.5" chamferradius="8,8,8,8" chamfertype="0,0,0,0">
+                    <_1 class="RectShape" GUID="{a5742660-2f84-b440-be14-27ed4c3c40f7}" name="Smart Rectangle" visible="1" printable="1" locked="0" opacity="1" blendmode="0" unfolded="0" ctm="(178.6091576480973,0, 0,44.49692575787013, 26.02659988403319,388.9530002774688)" pivotPoint="0.5,0.5" chamferradius="8,8,8,8" chamfertype="0,0,0,0">
                         <drawers count="2">
                             <_0 class="0" name="Stroke" enabled="1" opacity="1" blendmode="0" fillmode="0" stroke="1" salign="0" smode="0">
                                 <solidfiller fill="0,0,0,1" />
@@ -290,7 +290,7 @@
                             </_1>
                         </drawers>
                     </_1>
-                    <_2 class="RectShape" GUID="{7f614273-d799-064d-b90a-90314824115b}" name="Smart Rectangle" visible="1" printable="1" locked="0" opacity="1" blendmode="0" unfolded="0" ctm="(178.6091399965736,0, 0,144.1531414923945, 26.02661132812499,417.2884296708668)" pivotPoint="0.5,0.5" chamferradius="8,8,8,8" chamfertype="0,0,0,0">
+                    <_2 class="RectShape" GUID="{7f614273-d799-064d-b90a-90314824115b}" name="Smart Rectangle" visible="1" printable="1" locked="0" opacity="1" blendmode="0" unfolded="0" ctm="(178.6091399965736,0, 0,144.1531414923945, 26.02661132812499,438.2884296708669)" pivotPoint="0.5,0.5" chamferradius="8,8,8,8" chamfertype="0,0,0,0">
                         <drawers count="2">
                             <_0 class="0" name="Stroke" enabled="1" opacity="1" blendmode="0" fillmode="0" stroke="1" salign="0" smode="0">
                                 <solidfiller fill="0,0,0,1" />
@@ -317,7 +317,7 @@
                             </_1>
                         </drawers>
                     </_2>
-                    <_3 class="Text" GUID="{eae94b88-472e-b24e-9def-9e4a42772cf6}" name="Text" visible="1" printable="1" locked="0" opacity="1" blendmode="0" unfolded="0" ctm="(147.84765625,0, 0,35.00000000000003, 31.71179199218748,372.9740600585941)" pivotPoint="0.5,0.5" d="M 0 3.55271368e-15 C 0 3.55271368e-15 1 3.55271368e-15 1 3.55271368e-15 C 1 3.55271368e-15 1 1 1 1 C 1 1 0 1 0 1 C 0 1 0 3.55271368e-15 0 3.55271368e-15 Z " autoclosed="0" handlesArray="F1 M 0 3.55271368e-15 L 0 3.55271368e-15 " text="{\rtf1\ansi\ansicpg1252\cocoartf2580&#x0A;\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}&#x0A;{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}&#x0A;{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;}&#x0A;\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0&#x0A;&#x0A;\f0\fs28 \cf2 Structural specialzatiion\&#x0A;Domain specialization}" textlayout="2" drawglyphs="1">
+                    <_3 class="Text" GUID="{eae94b88-472e-b24e-9def-9e4a42772cf6}" name="Text" visible="1" printable="1" locked="0" opacity="1" blendmode="0" unfolded="0" ctm="(147.84765625,0, 0,35, 31.7117919921875,393.974060058594)" pivotPoint="0.5,0.5" d="M 0 3.55271368e-15 C 0 3.55271368e-15 1 3.55271368e-15 1 3.55271368e-15 C 1 3.55271368e-15 1 1 1 1 C 1 1 0 1 0 1 C 0 1 0 3.55271368e-15 0 3.55271368e-15 Z " autoclosed="0" handlesArray="F1 M 0 3.55271368e-15 L 0 3.55271368e-15 " text="{\rtf1\ansi\ansicpg1252\cocoartf2580&#x0A;\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}&#x0A;{\colortbl;\red255\green255\blue255;\red251\green0\blue29;}&#x0A;{\*\expandedcolortbl;;\cssrgb\c100000\c11372\c14510;}&#x0A;\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0&#x0A;&#x0A;\f0\fs28 \cf2 Structural specialization\&#x0A;Domain specialization}" textlayout="2" drawglyphs="1">
                         <drawers count="2">
                             <_0 class="0" name="Stroke" enabled="0" opacity="1" blendmode="0" fillmode="0" stroke="1" salign="0" smode="0">
                                 <solidfiller fill="0,0,0,1" />
@@ -344,7 +344,7 @@
                             </_1>
                         </drawers>
                     </_3>
-                    <_4 class="Text" GUID="{cc63048e-3c36-1b4e-82d7-f1605adbda39}" name="Text" visible="1" printable="1" locked="0" opacity="1" blendmode="0" unfolded="0" ctm="(160.248046875,0, 0,137, 33.89699554443359,419.3642578125)" pivotPoint="0.5,0.5" d="M 0 3.55271368e-15 C 0 3.55271368e-15 1 3.55271368e-15 1 3.55271368e-15 C 1 3.55271368e-15 1 1 1 1 C 1 1 0 1 0 1 C 0 1 0 3.55271368e-15 0 3.55271368e-15 Z " autoclosed="0" handlesArray="F1 M 0 3.55271368e-15 L 0 3.55271368e-15 " text="{\rtf1\ansi\ansicpg1252\cocoartf2580&#x0A;\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}&#x0A;{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}&#x0A;{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;}&#x0A;\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0&#x0A;&#x0A;\f0\fs28 \cf2 Generic maps\&#x0A;Five topic types (CTRGD)\&#x0A;@conref pull\&#x0A;Basic filtering (conditions)\&#x0A;Basic flagging\&#x0A;URI-based referencing\&#x0A;Six semantic domains\&#x0A;Map &lt;reltable&gt;s}" textlayout="2" drawglyphs="1">
+                    <_4 class="Text" GUID="{cc63048e-3c36-1b4e-82d7-f1605adbda39}" name="Text" visible="1" printable="1" locked="0" opacity="1" blendmode="0" unfolded="0" ctm="(160.248046875,0, 0,137, 33.89699554443359,440.3642578124998)" pivotPoint="0.5,0.5" d="M 0 3.55271368e-15 C 0 3.55271368e-15 1 3.55271368e-15 1 3.55271368e-15 C 1 3.55271368e-15 1 1 1 1 C 1 1 0 1 0 1 C 0 1 0 3.55271368e-15 0 3.55271368e-15 Z " autoclosed="0" handlesArray="F1 M 0 3.55271368e-15 L 0 3.55271368e-15 " text="{\rtf1\ansi\ansicpg1252\cocoartf2580&#x0A;\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}&#x0A;{\colortbl;\red255\green255\blue255;\red251\green0\blue29;}&#x0A;{\*\expandedcolortbl;;\cssrgb\c100000\c11372\c14510;}&#x0A;\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0&#x0A;&#x0A;\f0\fs28 \cf2 Generic maps\&#x0A;Five topic types (CTRGD)\&#x0A;@conref pull\&#x0A;Basic filtering (conditions)\&#x0A;Basic flagging\&#x0A;URI-based referencing\&#x0A;Six semantic domains\&#x0A;Map &lt;reltable&gt;s}" textlayout="2" drawglyphs="1">
                         <drawers count="2">
                             <_0 class="0" name="Stroke" enabled="0" opacity="1" blendmode="0" fillmode="0" stroke="1" salign="0" smode="0">
                                 <solidfiller fill="0,0,0,1" />
@@ -371,9 +371,9 @@
                             </_1>
                         </drawers>
                     </_4>
-                    <_5 class="Text" GUID="{3fe846d8-3452-6f41-a4de-5b8c16007697}" name="Text" visible="1" printable="1" locked="0" opacity="1" blendmode="0" unfolded="0" ctm="(227.2265625,0, 0,256, 532.6351318359375,20.59137725830077)" pivotPoint="0.5,0.5" d="M 0 3.55271368e-15 C 0 3.55271368e-15 1 3.55271368e-15 1 3.55271368e-15 C 1 3.55271368e-15 1 1 1 1 C 1 1 0 1 0 1 C 0 1 0 3.55271368e-15 0 3.55271368e-15 Z " autoclosed="0" handlesArray="F1 M 0 3.55271368e-15 L 0 3.55271368e-15 " text="{\rtf1\ansi\ansicpg1252\cocoartf2580&#x0A;\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}&#x0A;{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}&#x0A;{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;}&#x0A;\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0&#x0A;&#x0A;\f0\fs28 \cf2 Constraint-based specialization\&#x0A;Structiral and domain specializations\&#x0A;  exchange logic and elements\&#x0A;\&#x0A;Key-based referencing\&#x0A;Learning and training domains\&#x0A;subjectScheme map for taxonomies\&#x0A;subjectScheme map for controlled\&#x0A;  attribute values\&#x0A;Machine industry topic type\&#x0A;General task topic type\&#x0A;@conref pull - ranges\&#x0A;Image @scalefit\&#x0A;&lt;text&gt; allowed most places\&#x0A;@conref push}" textlayout="2" drawglyphs="1">
+                    <_5 class="RectShape" GUID="{c57f88cb-2335-fa4c-9f0e-94039d98267b}" name="Smart Rectangle" visible="1" printable="1" locked="0" opacity="1" blendmode="0" unfolded="0" ctm="(157.2930819952633,0, 0,328.0441870686143, 226.3893890380859,262.5103173258419)" pivotPoint="0.5,0.5" chamferradius="8,8,8,8" chamfertype="0,0,0,0">
                         <drawers count="2">
-                            <_0 class="0" name="Stroke" enabled="0" opacity="1" blendmode="0" fillmode="0" stroke="1" salign="0" smode="0">
+                            <_0 class="0" name="Stroke" enabled="1" opacity="1" blendmode="0" fillmode="0" stroke="1" salign="0" smode="0">
                                 <solidfiller fill="0,0,0,1" />
                                 <gradientfiller startpoint="0,0.5" endpoint="1,0.5" middlepoint="0,0" gradientroundness="1" gradientstyle="0">
                                     <gradient count="2">
@@ -386,7 +386,7 @@
                                 <arrows startarrowstyle="0" startarrowscale="1" endarrowstyle="0" endarrowscale="1" />
                                 <brush angle="0.785398" roundness="0.333333" />
                             </_0>
-                            <_1 class="1" name="Fill" enabled="0" opacity="1" blendmode="0" fillmode="0" winding="0">
+                            <_1 class="1" name="Fill" enabled="1" opacity="1" blendmode="0" fillmode="0" winding="0">
                                 <solidfiller fill="0.666667,0.666667,0.666667,1" />
                                 <gradientfiller startpoint="0,0.5" endpoint="1,0.5" middlepoint="0,0" gradientroundness="1" gradientstyle="0">
                                     <gradient count="2">
@@ -398,61 +398,7 @@
                             </_1>
                         </drawers>
                     </_5>
-                    <_6 class="Text" GUID="{ca563848-db14-334c-ba92-9cbb512fe447}" name="Text" visible="1" printable="1" locked="0" opacity="1" blendmode="0" unfolded="0" ctm="(255.2060546875,0, 0,222, 46.76727294921886,36.22235107421875)" pivotPoint="0.5,0.5" d="M 0 3.55271368e-15 C 0 3.55271368e-15 1 3.55271368e-15 1 3.55271368e-15 C 1 3.55271368e-15 1 1 1 1 C 1 1 0 1 0 1 C 0 1 0 3.55271368e-15 0 3.55271368e-15 Z " autoclosed="0" handlesArray="F1 M 0 3.55271368e-15 L 0 3.55271368e-15 " text="{\rtf1\ansi\ansicpg1252\cocoartf2580&#x0A;\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}&#x0A;{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}&#x0A;{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;}&#x0A;\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0&#x0A;&#x0A;\f0\fs28 \cf2 Support for Relax NG grammars\&#x0A;Structural specializations reusable\&#x0A;\&#x0A;Scoped keys\&#x0A;Branch filtering\&#x0A;Expanded syntax for filtering\&#x0A;Constraint-based specialization\&#x0A;Troubleshooting topic type\&#x0A;&lt;resourceid&gt; extensions for CSH\&#x0A;&lt;div&gt; everywhere\&#x0A;Three new domains(SVG, markup, math)\&#x0A;Additional table markup for accerssibility\&#x0A;\&#x0A;}" textlayout="2" drawglyphs="1">
-                        <drawers count="2">
-                            <_0 class="0" name="Stroke" enabled="0" opacity="1" blendmode="0" fillmode="0" stroke="1" salign="0" smode="0">
-                                <solidfiller fill="0,0,0,1" />
-                                <gradientfiller startpoint="0,0.5" endpoint="1,0.5" middlepoint="0,0" gradientroundness="1" gradientstyle="0">
-                                    <gradient count="2">
-                                        <_0 color="0,0,0,1" colorlocation="0" />
-                                        <_1 color="1,0,0,1" colorlocation="1" />
-                                    </gradient>
-                                </gradientfiller>
-                                <pdfShadingFiller ignoreBackground="0" ctm="(1,0, 0,1, 0,0)" />
-                                <style linecapstyle="0" linejoinstyle="0" flatness="0.1" miterlimit="10" linedashphase="0" />
-                                <arrows startarrowstyle="0" startarrowscale="1" endarrowstyle="0" endarrowscale="1" />
-                                <brush angle="0.785398" roundness="0.333333" />
-                            </_0>
-                            <_1 class="1" name="Fill" enabled="0" opacity="1" blendmode="0" fillmode="0" winding="0">
-                                <solidfiller fill="0.666667,0.666667,0.666667,1" />
-                                <gradientfiller startpoint="0,0.5" endpoint="1,0.5" middlepoint="0,0" gradientroundness="1" gradientstyle="0">
-                                    <gradient count="2">
-                                        <_0 color="0,0,0,1" colorlocation="0" />
-                                        <_1 color="1,0,0,1" colorlocation="1" />
-                                    </gradient>
-                                </gradientfiller>
-                                <pdfShadingFiller ignoreBackground="0" ctm="(1,0, 0,1, 0,0)" />
-                            </_1>
-                        </drawers>
-                    </_6>
-                    <_7 class="RectShape" GUID="{c57f88cb-2335-fa4c-9f0e-94039d98267b}" name="Smart Rectangle" visible="1" printable="1" locked="0" opacity="1" blendmode="0" unfolded="0" ctm="(199.4624241724934,0, 0,310.6708434537371, 226.3893890380859,258.8836609407642)" pivotPoint="0.5,0.5" chamferradius="8,8,8,8" chamfertype="0,0,0,0">
-                        <drawers count="2">
-                            <_0 class="0" name="Stroke" enabled="1" opacity="1" blendmode="0" fillmode="0" stroke="1" salign="0" smode="0">
-                                <solidfiller fill="0,0,0,1" />
-                                <gradientfiller startpoint="0,0.5" endpoint="1,0.5" middlepoint="0,0" gradientroundness="1" gradientstyle="0">
-                                    <gradient count="2">
-                                        <_0 color="0,0,0,1" colorlocation="0" />
-                                        <_1 color="1,0,0,1" colorlocation="1" />
-                                    </gradient>
-                                </gradientfiller>
-                                <pdfShadingFiller ignoreBackground="0" ctm="(1,0, 0,1, 0,0)" />
-                                <style linecapstyle="0" linejoinstyle="0" flatness="0.1" miterlimit="10" linedashphase="0" />
-                                <arrows startarrowstyle="0" startarrowscale="1" endarrowstyle="0" endarrowscale="1" />
-                                <brush angle="0.785398" roundness="0.333333" />
-                            </_0>
-                            <_1 class="1" name="Fill" enabled="1" opacity="1" blendmode="0" fillmode="0" winding="0">
-                                <solidfiller fill="0.666667,0.666667,0.666667,1" />
-                                <gradientfiller startpoint="0,0.5" endpoint="1,0.5" middlepoint="0,0" gradientroundness="1" gradientstyle="0">
-                                    <gradient count="2">
-                                        <_0 color="0,0,0,1" colorlocation="0" />
-                                        <_1 color="1,0,0,1" colorlocation="1" />
-                                    </gradient>
-                                </gradientfiller>
-                                <pdfShadingFiller ignoreBackground="0" ctm="(1,0, 0,1, 0,0)" />
-                            </_1>
-                        </drawers>
-                    </_7>
-                    <_8 class="RectShape" GUID="{dcb193f7-bd02-3d43-b645-8dba299b806d}" name="Smart Rectangle" visible="1" printable="1" locked="0" opacity="1" blendmode="0" unfolded="0" ctm="(178.6091576480973,0, 0,44.49692575787016, 234.7826118469237,266.6748020352821)" pivotPoint="0.5,0.5" chamferradius="8,8,8,8" chamfertype="0,0,0,0">
+                    <_6 class="RectShape" GUID="{dcb193f7-bd02-3d43-b645-8dba299b806d}" name="Smart Rectangle" visible="1" printable="1" locked="0" opacity="1" blendmode="0" unfolded="0" ctm="(136.1431293083793,0, 0,60.59844229439855, 234.7826109399431,271.573287445919)" pivotPoint="0.5,0.5" chamferradius="8,8,8,8" chamfertype="0,0,0,0">
                         <drawers count="2">
                             <_0 class="0" name="Stroke" enabled="1" opacity="1" blendmode="0" fillmode="0" stroke="1" salign="0" smode="0">
                                 <solidfiller fill="0,0,0,1" />
@@ -478,8 +424,8 @@
                                 <pdfShadingFiller ignoreBackground="0" ctm="(1,0, 0,1, 0,0)" />
                             </_1>
                         </drawers>
-                    </_8>
-                    <_9 class="RectShape" GUID="{24a2b476-8cd6-8b45-8699-72686f178314}" name="Smart Rectangle" visible="1" printable="1" locked="0" opacity="1" blendmode="0" unfolded="0" ctm="(178.6091399965736,0, 0,243.1566333563531, 234.7826232910155,318.0067882930281)" pivotPoint="0.5,0.5" chamferradius="8,8,8,8" chamfertype="0,0,0,0">
+                    </_6>
+                    <_7 class="RectShape" GUID="{24a2b476-8cd6-8b45-8699-72686f178314}" name="Smart Rectangle" visible="1" printable="1" locked="0" opacity="1" blendmode="0" unfolded="0" ctm="(136.1431351941302,0, 0,243.1566478495808, 234.7826232910155,339.006781046414)" pivotPoint="0.5,0.5" chamferradius="8,8,8,8" chamfertype="0,0,0,0">
                         <drawers count="2">
                             <_0 class="0" name="Stroke" enabled="1" opacity="1" blendmode="0" fillmode="0" stroke="1" salign="0" smode="0">
                                 <solidfiller fill="0,0,0,1" />
@@ -505,8 +451,8 @@
                                 <pdfShadingFiller ignoreBackground="0" ctm="(1,0, 0,1, 0,0)" />
                             </_1>
                         </drawers>
-                    </_9>
-                    <_10 class="Text" GUID="{633755c9-7f25-7344-b0fc-57aa22ff0db5}" name="Text" visible="1" printable="1" locked="0" opacity="1" blendmode="0" unfolded="0" ctm="(141.6748046875,0, 0,35.00000000000003, 240.4678039550781,271.6958618164066)" pivotPoint="0.5,0.5" d="M 0 3.55271368e-15 C 0 3.55271368e-15 1 3.55271368e-15 1 3.55271368e-15 C 1 3.55271368e-15 1 1 1 1 C 1 1 0 1 0 1 C 0 1 0 3.55271368e-15 0 3.55271368e-15 Z " autoclosed="0" handlesArray="F1 M 0 3.55271368e-15 L 0 3.55271368e-15 " text="{\rtf1\ansi\ansicpg1252\cocoartf2580&#x0A;\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}&#x0A;{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}&#x0A;{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;}&#x0A;\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0&#x0A;&#x0A;\f0\fs28 \cf2 &lt;data&gt;, &lt;foreign&gt;, and \&#x0A;   &lt;unknown&gt;}" textlayout="2" drawglyphs="1">
+                    </_7>
+                    <_8 class="Text" GUID="{633755c9-7f25-7344-b0fc-57aa22ff0db5}" name="Text" visible="1" printable="1" locked="0" opacity="1" blendmode="0" unfolded="0" ctm="(115.19921875,0, 0,52, 240.6529998779297,274.5057983398436)" pivotPoint="0.5,0.5" d="M 0 3.55271368e-15 C 0 3.55271368e-15 1 3.55271368e-15 1 3.55271368e-15 C 1 3.55271368e-15 1 1 1 1 C 1 1 0 1 0 1 C 0 1 0 3.55271368e-15 0 3.55271368e-15 Z " autoclosed="0" handlesArray="F1 M 0 3.55271368e-15 L 0 3.55271368e-15 " text="{\rtf1\ansi\ansicpg1252\cocoartf2580&#x0A;\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}&#x0A;{\colortbl;\red255\green255\blue255;\red251\green0\blue29;\red0\green0\blue0;\red63\green63\blue63;&#x0A;}&#x0A;{\*\expandedcolortbl;;\cssrgb\c100000\c11372\c14510;\cssrgb\c0\c0\c0;\cssrgb\c31373\c31373\c31373;&#x0A;}&#x0A;\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0&#x0A;&#x0A;\f0\fs28 \cf2 &lt;data&gt; - &lt;foreign&gt;\cf3  \&#x0A;\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0&#x0A;\cf4 Structural spec.\&#x0A;Domain spec.}" textlayout="2" drawglyphs="1">
                         <drawers count="2">
                             <_0 class="0" name="Stroke" enabled="0" opacity="1" blendmode="0" fillmode="0" stroke="1" salign="0" smode="0">
                                 <solidfiller fill="0,0,0,1" />
@@ -522,6 +468,60 @@
                                 <brush angle="0.785398" roundness="0.333333" />
                             </_0>
                             <_1 class="1" name="Fill" enabled="0" opacity="1" blendmode="0" fillmode="0" winding="0">
+                                <solidfiller fill="0.666667,0.666667,0.666667,1" />
+                                <gradientfiller startpoint="0,0.5" endpoint="1,0.5" middlepoint="0,0" gradientroundness="1" gradientstyle="0">
+                                    <gradient count="2">
+                                        <_0 color="0,0,0,1" colorlocation="0" />
+                                        <_1 color="1,0,0,1" colorlocation="1" />
+                                    </gradient>
+                                </gradientfiller>
+                                <pdfShadingFiller ignoreBackground="0" ctm="(1,0, 0,1, 0,0)" />
+                            </_1>
+                        </drawers>
+                    </_8>
+                    <_9 class="Text" GUID="{8d54b023-e2f8-f14d-a6bd-17dc158c5a6d}" name="Text" visible="1" printable="1" locked="0" opacity="1" blendmode="0" unfolded="0" ctm="(119.095703125,0, 0,86, 241.6530151367189,349.612731933594)" pivotPoint="0.5,0.5" d="M 0 3.55271368e-15 C 0 3.55271368e-15 1 3.55271368e-15 1 3.55271368e-15 C 1 3.55271368e-15 1 1 1 1 C 1 1 0 1 0 1 C 0 1 0 3.55271368e-15 0 3.55271368e-15 Z " autoclosed="0" handlesArray="F1 M 0 3.55271368e-15 L 0 3.55271368e-15 " text="{\rtf1\ansi\ansicpg1252\cocoartf2580&#x0A;\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}&#x0A;{\colortbl;\red255\green255\blue255;\red251\green0\blue29;\red0\green0\blue0;}&#x0A;{\*\expandedcolortbl;;\cssrgb\c100000\c11372\c14510;\cssrgb\c0\c0\c0;}&#x0A;\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0&#x0A;&#x0A;\f0\fs28 \cf2 Bookmaps\&#x0A;Glossary topic type\&#x0A;Enhanced indexing\&#x0A;Graphics scaling\&#x0A;&lt;abstract&gt;\cf3 \&#x0A;}" textlayout="2" drawglyphs="1">
+                        <drawers count="2">
+                            <_0 class="0" name="Stroke" enabled="0" opacity="1" blendmode="0" fillmode="0" stroke="1" salign="0" smode="0">
+                                <solidfiller fill="0,0,0,1" />
+                                <gradientfiller startpoint="0,0.5" endpoint="1,0.5" middlepoint="0,0" gradientroundness="1" gradientstyle="0">
+                                    <gradient count="2">
+                                        <_0 color="0,0,0,1" colorlocation="0" />
+                                        <_1 color="1,0,0,1" colorlocation="1" />
+                                    </gradient>
+                                </gradientfiller>
+                                <pdfShadingFiller ignoreBackground="0" ctm="(1,0, 0,1, 0,0)" />
+                                <style linecapstyle="0" linejoinstyle="0" flatness="0.1" miterlimit="10" linedashphase="0" />
+                                <arrows startarrowstyle="0" startarrowscale="1" endarrowstyle="0" endarrowscale="1" />
+                                <brush angle="0.785398" roundness="0.333333" />
+                            </_0>
+                            <_1 class="1" name="Fill" enabled="0" opacity="1" blendmode="0" fillmode="0" winding="0">
+                                <solidfiller fill="0.666667,0.666667,0.666667,1" />
+                                <gradientfiller startpoint="0,0.5" endpoint="1,0.5" middlepoint="0,0" gradientroundness="1" gradientstyle="0">
+                                    <gradient count="2">
+                                        <_0 color="0,0,0,1" colorlocation="0" />
+                                        <_1 color="1,0,0,1" colorlocation="1" />
+                                    </gradient>
+                                </gradientfiller>
+                                <pdfShadingFiller ignoreBackground="0" ctm="(1,0, 0,1, 0,0)" />
+                            </_1>
+                        </drawers>
+                    </_9>
+                    <_10 class="RectShape" GUID="{22420476-a226-a448-b930-7dfe5ec218c7}" name="Smart Rectangle" visible="1" printable="1" locked="0" opacity="1" blendmode="0" unfolded="0" ctm="(183.5171076296105,0, 0,432.4895725621096, 393.1805419921874,158.343142963735)" pivotPoint="0.5,0.5" chamferradius="8,8,8,8" chamfertype="0,0,0,0">
+                        <drawers count="2">
+                            <_0 class="0" name="Stroke" enabled="1" opacity="1" blendmode="0" fillmode="0" stroke="1" salign="0" smode="0">
+                                <solidfiller fill="0,0,0,1" />
+                                <gradientfiller startpoint="0,0.5" endpoint="1,0.5" middlepoint="0,0" gradientroundness="1" gradientstyle="0">
+                                    <gradient count="2">
+                                        <_0 color="0,0,0,1" colorlocation="0" />
+                                        <_1 color="1,0,0,1" colorlocation="1" />
+                                    </gradient>
+                                </gradientfiller>
+                                <pdfShadingFiller ignoreBackground="0" ctm="(1,0, 0,1, 0,0)" />
+                                <style linecapstyle="0" linejoinstyle="0" flatness="0.1" miterlimit="10" linedashphase="0" />
+                                <arrows startarrowstyle="0" startarrowscale="1" endarrowstyle="0" endarrowscale="1" />
+                                <brush angle="0.785398" roundness="0.333333" />
+                            </_0>
+                            <_1 class="1" name="Fill" enabled="1" opacity="1" blendmode="0" fillmode="0" winding="0">
                                 <solidfiller fill="0.666667,0.666667,0.666667,1" />
                                 <gradientfiller startpoint="0,0.5" endpoint="1,0.5" middlepoint="0,0" gradientroundness="1" gradientstyle="0">
                                     <gradient count="2">
@@ -533,61 +533,7 @@
                             </_1>
                         </drawers>
                     </_10>
-                    <_11 class="Text" GUID="{8d54b023-e2f8-f14d-a6bd-17dc158c5a6d}" name="Text" visible="1" printable="1" locked="0" opacity="1" blendmode="0" unfolded="0" ctm="(119.095703125,0, 0,86, 241.6530151367188,322.6127319335938)" pivotPoint="0.5,0.5" d="M 0 3.55271368e-15 C 0 3.55271368e-15 1 3.55271368e-15 1 3.55271368e-15 C 1 3.55271368e-15 1 1 1 1 C 1 1 0 1 0 1 C 0 1 0 3.55271368e-15 0 3.55271368e-15 Z " autoclosed="0" handlesArray="F1 M 0 3.55271368e-15 L 0 3.55271368e-15 " text="{\rtf1\ansi\ansicpg1252\cocoartf2580&#x0A;\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}&#x0A;{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}&#x0A;{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;}&#x0A;\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0&#x0A;&#x0A;\f0\fs28 \cf2 Bookmaps\&#x0A;Glossary topic type\&#x0A;Enhanced indexing\&#x0A;Graphics scaling\&#x0A;&lt;abstract&gt;\&#x0A;}" textlayout="2" drawglyphs="1">
-                        <drawers count="2">
-                            <_0 class="0" name="Stroke" enabled="0" opacity="1" blendmode="0" fillmode="0" stroke="1" salign="0" smode="0">
-                                <solidfiller fill="0,0,0,1" />
-                                <gradientfiller startpoint="0,0.5" endpoint="1,0.5" middlepoint="0,0" gradientroundness="1" gradientstyle="0">
-                                    <gradient count="2">
-                                        <_0 color="0,0,0,1" colorlocation="0" />
-                                        <_1 color="1,0,0,1" colorlocation="1" />
-                                    </gradient>
-                                </gradientfiller>
-                                <pdfShadingFiller ignoreBackground="0" ctm="(1,0, 0,1, 0,0)" />
-                                <style linecapstyle="0" linejoinstyle="0" flatness="0.1" miterlimit="10" linedashphase="0" />
-                                <arrows startarrowstyle="0" startarrowscale="1" endarrowstyle="0" endarrowscale="1" />
-                                <brush angle="0.785398" roundness="0.333333" />
-                            </_0>
-                            <_1 class="1" name="Fill" enabled="0" opacity="1" blendmode="0" fillmode="0" winding="0">
-                                <solidfiller fill="0.666667,0.666667,0.666667,1" />
-                                <gradientfiller startpoint="0,0.5" endpoint="1,0.5" middlepoint="0,0" gradientroundness="1" gradientstyle="0">
-                                    <gradient count="2">
-                                        <_0 color="0,0,0,1" colorlocation="0" />
-                                        <_1 color="1,0,0,1" colorlocation="1" />
-                                    </gradient>
-                                </gradientfiller>
-                                <pdfShadingFiller ignoreBackground="0" ctm="(1,0, 0,1, 0,0)" />
-                            </_1>
-                        </drawers>
-                    </_11>
-                    <_12 class="RectShape" GUID="{22420476-a226-a448-b930-7dfe5ec218c7}" name="Smart Rectangle" visible="1" printable="1" locked="0" opacity="1" blendmode="0" unfolded="0" ctm="(199.4624241724933,0, 0,310.6708434537369, 436.8057250976562,259.1618591829517)" pivotPoint="0.5,0.5" chamferradius="8,8,8,8" chamfertype="0,0,0,0">
-                        <drawers count="2">
-                            <_0 class="0" name="Stroke" enabled="1" opacity="1" blendmode="0" fillmode="0" stroke="1" salign="0" smode="0">
-                                <solidfiller fill="0,0,0,1" />
-                                <gradientfiller startpoint="0,0.5" endpoint="1,0.5" middlepoint="0,0" gradientroundness="1" gradientstyle="0">
-                                    <gradient count="2">
-                                        <_0 color="0,0,0,1" colorlocation="0" />
-                                        <_1 color="1,0,0,1" colorlocation="1" />
-                                    </gradient>
-                                </gradientfiller>
-                                <pdfShadingFiller ignoreBackground="0" ctm="(1,0, 0,1, 0,0)" />
-                                <style linecapstyle="0" linejoinstyle="0" flatness="0.1" miterlimit="10" linedashphase="0" />
-                                <arrows startarrowstyle="0" startarrowscale="1" endarrowstyle="0" endarrowscale="1" />
-                                <brush angle="0.785398" roundness="0.333333" />
-                            </_0>
-                            <_1 class="1" name="Fill" enabled="1" opacity="1" blendmode="0" fillmode="0" winding="0">
-                                <solidfiller fill="0.666667,0.666667,0.666667,1" />
-                                <gradientfiller startpoint="0,0.5" endpoint="1,0.5" middlepoint="0,0" gradientroundness="1" gradientstyle="0">
-                                    <gradient count="2">
-                                        <_0 color="0,0,0,1" colorlocation="0" />
-                                        <_1 color="1,0,0,1" colorlocation="1" />
-                                    </gradient>
-                                </gradientfiller>
-                                <pdfShadingFiller ignoreBackground="0" ctm="(1,0, 0,1, 0,0)" />
-                            </_1>
-                        </drawers>
-                    </_12>
-                    <_13 class="RectShape" GUID="{6141478d-bcb3-e144-977d-5982df48b3ac}" name="Smart Rectangle" visible="1" printable="1" locked="0" opacity="1" blendmode="0" unfolded="0" ctm="(178.6091576480973,0, 0,44.49692575787014, 445.198978424072,266.9530002774696)" pivotPoint="0.5,0.5" chamferradius="8,8,8,8" chamfertype="0,0,0,0">
+                    <_11 class="RectShape" GUID="{6141478d-bcb3-e144-977d-5982df48b3ac}" name="Smart Rectangle" visible="1" printable="1" locked="0" opacity="1" blendmode="0" unfolded="0" ctm="(165.1310104085915,0, 0,72.20148875045233, 400.0000035268328,164.6361990374743)" pivotPoint="0.5,0.5" chamferradius="8,8,8,8" chamfertype="0,0,0,0">
                         <drawers count="2">
                             <_0 class="0" name="Stroke" enabled="1" opacity="1" blendmode="0" fillmode="0" stroke="1" salign="0" smode="0">
                                 <solidfiller fill="0,0,0,1" />
@@ -613,8 +559,8 @@
                                 <pdfShadingFiller ignoreBackground="0" ctm="(1,0, 0,1, 0,0)" />
                             </_1>
                         </drawers>
-                    </_13>
-                    <_14 class="RectShape" GUID="{45148b09-9b16-d842-8a2e-dffaa28ab745}" name="Smart Rectangle" visible="1" printable="1" locked="0" opacity="1" blendmode="0" unfolded="0" ctm="(178.6091399965735,0, 0,243.1566333563529, 445.1989746093748,318.2849865352156)" pivotPoint="0.5,0.5" chamferradius="8,8,8,8" chamfertype="0,0,0,0">
+                    </_11>
+                    <_12 class="RectShape" GUID="{45148b09-9b16-d842-8a2e-dffaa28ab745}" name="Smart Rectangle" visible="1" printable="1" locked="0" opacity="1" blendmode="0" unfolded="0" ctm="(162.7768115944322,0, 0,339.7603776734227, 401.021850585937,241.6467009602741)" pivotPoint="0.5,0.5" chamferradius="8,8,8,8" chamfertype="0,0,0,0">
                         <drawers count="2">
                             <_0 class="0" name="Stroke" enabled="1" opacity="1" blendmode="0" fillmode="0" stroke="1" salign="0" smode="0">
                                 <solidfiller fill="0,0,0,1" />
@@ -640,8 +586,62 @@
                                 <pdfShadingFiller ignoreBackground="0" ctm="(1,0, 0,1, 0,0)" />
                             </_1>
                         </drawers>
+                    </_12>
+                    <_13 class="Text" GUID="{7f0e856b-8947-3d4b-8594-a785542b6da4}" name="Text" visible="1" printable="1" locked="0" opacity="1" blendmode="0" unfolded="0" ctm="(147.84765625,0, 0,69.00000000000001, 410.1994018554688,164.9351806640627)" pivotPoint="0.5,0.5" d="M 0 3.55271368e-15 C 0 3.55271368e-15 1 3.55271368e-15 1 3.55271368e-15 C 1 3.55271368e-15 1 1 1 1 C 1 1 0 1 0 1 C 0 1 0 3.55271368e-15 0 3.55271368e-15 Z " autoclosed="0" handlesArray="F1 M 0 3.55271368e-15 L 0 3.55271368e-15 " text="{\rtf1\ansi\ansicpg1252\cocoartf2580&#x0A;\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}&#x0A;{\colortbl;\red255\green255\blue255;\red251\green0\blue29;\red0\green0\blue0;\red63\green63\blue63;&#x0A;}&#x0A;{\*\expandedcolortbl;;\cssrgb\c100000\c11372\c14510;\cssrgb\c0\c0\c0;\cssrgb\c31373\c31373\c31373;&#x0A;}&#x0A;\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0&#x0A;&#x0A;\f0\fs28 \cf2 Constraint modules\cf3 \&#x0A;\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0&#x0A;\cf4 &lt;data&gt; - &lt;foreign&gt;\cf3  \&#x0A;\cf4 Structural specialization\&#x0A;Domain specialization}" textlayout="2" drawglyphs="1">
+                        <drawers count="2">
+                            <_0 class="0" name="Stroke" enabled="0" opacity="1" blendmode="0" fillmode="0" stroke="1" salign="0" smode="0">
+                                <solidfiller fill="0,0,0,1" />
+                                <gradientfiller startpoint="0,0.5" endpoint="1,0.5" middlepoint="0,0" gradientroundness="1" gradientstyle="0">
+                                    <gradient count="2">
+                                        <_0 color="0,0,0,1" colorlocation="0" />
+                                        <_1 color="1,0,0,1" colorlocation="1" />
+                                    </gradient>
+                                </gradientfiller>
+                                <pdfShadingFiller ignoreBackground="0" ctm="(1,0, 0,1, 0,0)" />
+                                <style linecapstyle="0" linejoinstyle="0" flatness="0.1" miterlimit="10" linedashphase="0" />
+                                <arrows startarrowstyle="0" startarrowscale="1" endarrowstyle="0" endarrowscale="1" />
+                                <brush angle="0.785398" roundness="0.333333" />
+                            </_0>
+                            <_1 class="1" name="Fill" enabled="0" opacity="1" blendmode="0" fillmode="0" winding="0">
+                                <solidfiller fill="0.666667,0.666667,0.666667,1" />
+                                <gradientfiller startpoint="0,0.5" endpoint="1,0.5" middlepoint="0,0" gradientroundness="1" gradientstyle="0">
+                                    <gradient count="2">
+                                        <_0 color="0,0,0,1" colorlocation="0" />
+                                        <_1 color="1,0,0,1" colorlocation="1" />
+                                    </gradient>
+                                </gradientfiller>
+                                <pdfShadingFiller ignoreBackground="0" ctm="(1,0, 0,1, 0,0)" />
+                            </_1>
+                        </drawers>
+                    </_13>
+                    <_14 class="Text" GUID="{1f2e9ea0-2bec-a047-af4b-cb300b0bfeb6}" name="Text" visible="1" printable="1" locked="0" opacity="1" blendmode="0" unfolded="0" ctm="(119.095703125,0, 0,86, 412.069366455078,351.8909301757811)" pivotPoint="0.5,0.5" d="M 0 3.55271368e-15 C 0 3.55271368e-15 1 3.55271368e-15 1 3.55271368e-15 C 1 3.55271368e-15 1 1 1 1 C 1 1 0 1 0 1 C 0 1 0 3.55271368e-15 0 3.55271368e-15 Z " autoclosed="0" handlesArray="F1 M 0 3.55271368e-15 L 0 3.55271368e-15 " text="{\rtf1\ansi\ansicpg1252\cocoartf2580&#x0A;\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}&#x0A;{\colortbl;\red255\green255\blue255;\red63\green63\blue63;\red0\green0\blue0;}&#x0A;{\*\expandedcolortbl;;\cssrgb\c31373\c31373\c31373;\cssrgb\c0\c0\c0;}&#x0A;\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0&#x0A;&#x0A;\f0\fs28 \cf2 Bookmaps\&#x0A;Glossary topic type\&#x0A;Enhanced indexing\&#x0A;Graphics scaling\&#x0A;&lt;abstract&gt;\cf3 \&#x0A;}" textlayout="2" drawglyphs="1">
+                        <drawers count="2">
+                            <_0 class="0" name="Stroke" enabled="0" opacity="1" blendmode="0" fillmode="0" stroke="1" salign="0" smode="0">
+                                <solidfiller fill="0,0,0,1" />
+                                <gradientfiller startpoint="0,0.5" endpoint="1,0.5" middlepoint="0,0" gradientroundness="1" gradientstyle="0">
+                                    <gradient count="2">
+                                        <_0 color="0,0,0,1" colorlocation="0" />
+                                        <_1 color="1,0,0,1" colorlocation="1" />
+                                    </gradient>
+                                </gradientfiller>
+                                <pdfShadingFiller ignoreBackground="0" ctm="(1,0, 0,1, 0,0)" />
+                                <style linecapstyle="0" linejoinstyle="0" flatness="0.1" miterlimit="10" linedashphase="0" />
+                                <arrows startarrowstyle="0" startarrowscale="1" endarrowstyle="0" endarrowscale="1" />
+                                <brush angle="0.785398" roundness="0.333333" />
+                            </_0>
+                            <_1 class="1" name="Fill" enabled="0" opacity="1" blendmode="0" fillmode="0" winding="0">
+                                <solidfiller fill="0.666667,0.666667,0.666667,1" />
+                                <gradientfiller startpoint="0,0.5" endpoint="1,0.5" middlepoint="0,0" gradientroundness="1" gradientstyle="0">
+                                    <gradient count="2">
+                                        <_0 color="0,0,0,1" colorlocation="0" />
+                                        <_1 color="1,0,0,1" colorlocation="1" />
+                                    </gradient>
+                                </gradientfiller>
+                                <pdfShadingFiller ignoreBackground="0" ctm="(1,0, 0,1, 0,0)" />
+                            </_1>
+                        </drawers>
                     </_14>
-                    <_15 class="Text" GUID="{7f0e856b-8947-3d4b-8594-a785542b6da4}" name="Text" visible="1" printable="1" locked="0" opacity="1" blendmode="0" unfolded="0" ctm="(141.6748046875,0, 0,35.00000000000001, 450.8841552734376,271.9740600585941)" pivotPoint="0.5,0.5" d="M 0 3.55271368e-15 C 0 3.55271368e-15 1 3.55271368e-15 1 3.55271368e-15 C 1 3.55271368e-15 1 1 1 1 C 1 1 0 1 0 1 C 0 1 0 3.55271368e-15 0 3.55271368e-15 Z " autoclosed="0" handlesArray="F1 M 0 3.55271368e-15 L 0 3.55271368e-15 " text="{\rtf1\ansi\ansicpg1252\cocoartf2580&#x0A;\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}&#x0A;{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}&#x0A;{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;}&#x0A;\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0&#x0A;&#x0A;\f0\fs28 \cf2 &lt;data&gt;, &lt;foreign&gt;, and \&#x0A;   &lt;unknown&gt;}" textlayout="2" drawglyphs="1">
+                    <_15 class="Text" GUID="{c5223ffd-761c-eb40-816d-bbbcf0690826}" name="Text" visible="1" printable="1" locked="0" opacity="1" blendmode="0" unfolded="0" ctm="(160.248046875,0, 0,137, 240.955810546875,437.5563964843753)" pivotPoint="0.5,0.5" d="M 0 0 C 0 0 1 0 1 0 C 1 0 1 1 1 1 C 1 1 0 1 0 1 C 0 1 0 0 0 0 Z " autoclosed="0" handlesArray="F1 M 0.00624032551 0 L 0.00624032551 0 " text="{\rtf1\ansi\ansicpg1252\cocoartf2580&#x0A;\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}&#x0A;{\colortbl;\red255\green255\blue255;\red63\green63\blue63;}&#x0A;{\*\expandedcolortbl;;\cssrgb\c31373\c31373\c31373;}&#x0A;\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0&#x0A;&#x0A;\f0\fs28 \cf2 Generic maps\&#x0A;Five topic types\&#x0A;@conref pull\&#x0A;Basic filtering\&#x0A;Basic flagging\&#x0A;URI-based refs\&#x0A;Six emantic domains\&#x0A;Map &lt;reltable&gt;s}" textlayout="0" drawglyphs="1">
                         <drawers count="2">
                             <_0 class="0" name="Stroke" enabled="0" opacity="1" blendmode="0" fillmode="0" stroke="1" salign="0" smode="0">
                                 <solidfiller fill="0,0,0,1" />
@@ -668,7 +668,7 @@
                             </_1>
                         </drawers>
                     </_15>
-                    <_16 class="Text" GUID="{1f2e9ea0-2bec-a047-af4b-cb300b0bfeb6}" name="Text" visible="1" printable="1" locked="0" opacity="1" blendmode="0" unfolded="0" ctm="(119.095703125,0, 0,85.99999999999996, 452.0693664550781,322.8909301757813)" pivotPoint="0.5,0.5" d="M 0 3.55271368e-15 C 0 3.55271368e-15 1 3.55271368e-15 1 3.55271368e-15 C 1 3.55271368e-15 1 1 1 1 C 1 1 0 1 0 1 C 0 1 0 3.55271368e-15 0 3.55271368e-15 Z " autoclosed="0" handlesArray="F1 M 0 3.55271368e-15 L 0 3.55271368e-15 " text="{\rtf1\ansi\ansicpg1252\cocoartf2580&#x0A;\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}&#x0A;{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}&#x0A;{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;}&#x0A;\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0&#x0A;&#x0A;\f0\fs28 \cf2 Bookmaps\&#x0A;Glossary topic type\&#x0A;Enhanced indexing\&#x0A;Graphics scaling\&#x0A;&lt;abstract&gt;\&#x0A;}" textlayout="2" drawglyphs="1">
+                    <_16 class="Text" GUID="{742cd067-d93a-1e49-b967-334da06f65b8}" name="Text" visible="1" printable="1" locked="0" opacity="1" blendmode="0" unfolded="0" ctm="(160.248046875,0, 0,137, 411.5844116210938,437.5563964843753)" pivotPoint="0.5,0.5" d="M 4.4408921e-16 0 C 4.4408921e-16 0 1 0 1 0 C 1 0 1 1 1 1 C 1 1 4.4408921e-16 1 4.4408921e-16 1 C 4.4408921e-16 1 4.4408921e-16 0 4.4408921e-16 0 Z " autoclosed="0" handlesArray="F1 M 0.00624032551 0 L 0.00624032551 0 " text="{\rtf1\ansi\ansicpg1252\cocoartf2580&#x0A;\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}&#x0A;{\colortbl;\red255\green255\blue255;\red63\green63\blue63;}&#x0A;{\*\expandedcolortbl;;\cssrgb\c31373\c31373\c31373;}&#x0A;\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0&#x0A;&#x0A;\f0\fs28 \cf2 Generic maps\&#x0A;Five topic types\&#x0A;@conref pull\&#x0A;Basic filtering\&#x0A;Basic flagging\&#x0A;URI-based refs\&#x0A;Six emantic domains\&#x0A;Map &lt;reltable&gt;s}" textlayout="0" drawglyphs="1">
                         <drawers count="2">
                             <_0 class="0" name="Stroke" enabled="0" opacity="1" blendmode="0" fillmode="0" stroke="1" salign="0" smode="0">
                                 <solidfiller fill="0,0,0,1" />
@@ -695,6 +695,357 @@
                             </_1>
                         </drawers>
                     </_16>
+                    <_17 class="Text" GUID="{3fe846d8-3452-6f41-a4de-5b8c16007697}" name="Text" visible="1" printable="1" locked="0" opacity="1" blendmode="0" unfolded="0" ctm="(143.185546875,0, 0,103, 411.0693969726562,246.4535522460936)" pivotPoint="0.5,0.5" d="M 0 3.55271368e-15 C 0 3.55271368e-15 1 3.55271368e-15 1 3.55271368e-15 C 1 3.55271368e-15 1 1 1 1 C 1 1 0 1 0 1 C 0 1 0 3.55271368e-15 0 3.55271368e-15 Z " autoclosed="0" handlesArray="F1 M 0 3.55271368e-15 L 0 3.55271368e-15 " text="{\rtf1\ansi\ansicpg1252\cocoartf2580&#x0A;\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}&#x0A;{\colortbl;\red255\green255\blue255;\red251\green0\blue29;\red0\green0\blue0;}&#x0A;{\*\expandedcolortbl;;\cssrgb\c100000\c11372\c14510;\cssrgb\c0\c0\c0;}&#x0A;\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0&#x0A;&#x0A;\f0\fs28 \cf2 Key-based referencing\&#x0A;Metadata taxonomies\&#x0A;General task topic type\&#x0A;@conref push\&#x0A;Image @scalefit\&#x0A;&lt;text&gt; in most places\cf3 \&#x0A;}" textlayout="2" drawglyphs="1">
+                        <drawers count="2">
+                            <_0 class="0" name="Stroke" enabled="0" opacity="1" blendmode="0" fillmode="0" stroke="1" salign="0" smode="0">
+                                <solidfiller fill="0,0,0,1" />
+                                <gradientfiller startpoint="0,0.5" endpoint="1,0.5" middlepoint="0,0" gradientroundness="1" gradientstyle="0">
+                                    <gradient count="2">
+                                        <_0 color="0,0,0,1" colorlocation="0" />
+                                        <_1 color="1,0,0,1" colorlocation="1" />
+                                    </gradient>
+                                </gradientfiller>
+                                <pdfShadingFiller ignoreBackground="0" ctm="(1,0, 0,1, 0,0)" />
+                                <style linecapstyle="0" linejoinstyle="0" flatness="0.1" miterlimit="10" linedashphase="0" />
+                                <arrows startarrowstyle="0" startarrowscale="1" endarrowstyle="0" endarrowscale="1" />
+                                <brush angle="0.785398" roundness="0.333333" />
+                            </_0>
+                            <_1 class="1" name="Fill" enabled="0" opacity="1" blendmode="0" fillmode="0" winding="0">
+                                <solidfiller fill="0.666667,0.666667,0.666667,1" />
+                                <gradientfiller startpoint="0,0.5" endpoint="1,0.5" middlepoint="0,0" gradientroundness="1" gradientstyle="0">
+                                    <gradient count="2">
+                                        <_0 color="0,0,0,1" colorlocation="0" />
+                                        <_1 color="1,0,0,1" colorlocation="1" />
+                                    </gradient>
+                                </gradientfiller>
+                                <pdfShadingFiller ignoreBackground="0" ctm="(1,0, 0,1, 0,0)" />
+                            </_1>
+                        </drawers>
+                    </_17>
+                    <_18 class="RectShape" GUID="{ea8ce60c-10fc-754d-b42e-a1f84063ba5b}" name="Smart Rectangle" visible="1" printable="1" locked="0" opacity="1" blendmode="0" unfolded="0" ctm="(203.5216132314144,0, 0,536.8068607700743, 585.5650024414061,54.19677011699667)" pivotPoint="0.5,0.5" chamferradius="8,8,8,8" chamfertype="0,0,0,0">
+                        <drawers count="2">
+                            <_0 class="0" name="Stroke" enabled="1" opacity="1" blendmode="0" fillmode="0" stroke="1" salign="0" smode="0">
+                                <solidfiller fill="0,0,0,1" />
+                                <gradientfiller startpoint="0,0.5" endpoint="1,0.5" middlepoint="0,0" gradientroundness="1" gradientstyle="0">
+                                    <gradient count="2">
+                                        <_0 color="0,0,0,1" colorlocation="0" />
+                                        <_1 color="1,0,0,1" colorlocation="1" />
+                                    </gradient>
+                                </gradientfiller>
+                                <pdfShadingFiller ignoreBackground="0" ctm="(1,0, 0,1, 0,0)" />
+                                <style linecapstyle="0" linejoinstyle="0" flatness="0.1" miterlimit="10" linedashphase="0" />
+                                <arrows startarrowstyle="0" startarrowscale="1" endarrowstyle="0" endarrowscale="1" />
+                                <brush angle="0.785398" roundness="0.333333" />
+                            </_0>
+                            <_1 class="1" name="Fill" enabled="1" opacity="1" blendmode="0" fillmode="0" winding="0">
+                                <solidfiller fill="0.666667,0.666667,0.666667,1" />
+                                <gradientfiller startpoint="0,0.5" endpoint="1,0.5" middlepoint="0,0" gradientroundness="1" gradientstyle="0">
+                                    <gradient count="2">
+                                        <_0 color="0,0,0,1" colorlocation="0" />
+                                        <_1 color="1,0,0,1" colorlocation="1" />
+                                    </gradient>
+                                </gradientfiller>
+                                <pdfShadingFiller ignoreBackground="0" ctm="(1,0, 0,1, 0,0)" />
+                            </_1>
+                        </drawers>
+                    </_18>
+                    <_19 class="RectShape" GUID="{d48602da-1e45-8d46-a673-ad8090d67b2d}" name="Smart Rectangle" visible="1" printable="1" locked="0" opacity="1" blendmode="0" unfolded="0" ctm="(186.9821483381746,0, 0,88.21793165118027, 592.3844644427428,60.80708964290325)" pivotPoint="0.5,0.5" chamferradius="8,8,8,8" chamfertype="0,0,0,0">
+                        <drawers count="2">
+                            <_0 class="0" name="Stroke" enabled="1" opacity="1" blendmode="0" fillmode="0" stroke="1" salign="0" smode="0">
+                                <solidfiller fill="0,0,0,1" />
+                                <gradientfiller startpoint="0,0.5" endpoint="1,0.5" middlepoint="0,0" gradientroundness="1" gradientstyle="0">
+                                    <gradient count="2">
+                                        <_0 color="0,0,0,1" colorlocation="0" />
+                                        <_1 color="1,0,0,1" colorlocation="1" />
+                                    </gradient>
+                                </gradientfiller>
+                                <pdfShadingFiller ignoreBackground="0" ctm="(1,0, 0,1, 0,0)" />
+                                <style linecapstyle="0" linejoinstyle="0" flatness="0.1" miterlimit="10" linedashphase="0" />
+                                <arrows startarrowstyle="0" startarrowscale="1" endarrowstyle="0" endarrowscale="1" />
+                                <brush angle="0.785398" roundness="0.333333" />
+                            </_0>
+                            <_1 class="1" name="Fill" enabled="1" opacity="1" blendmode="0" fillmode="0" winding="0">
+                                <solidfiller fill="1,0.843424,0.718297,1" />
+                                <gradientfiller startpoint="0,0.5" endpoint="1,0.5" middlepoint="0,0" gradientroundness="1" gradientstyle="0">
+                                    <gradient count="2">
+                                        <_0 color="0,0,0,1" colorlocation="0" />
+                                        <_1 color="1,0,0,1" colorlocation="1" />
+                                    </gradient>
+                                </gradientfiller>
+                                <pdfShadingFiller ignoreBackground="0" ctm="(1,0, 0,1, 0,0)" />
+                            </_1>
+                        </drawers>
+                    </_19>
+                    <_20 class="Text" GUID="{54e5ed5e-f2b8-4a40-a778-1095785d5637}" name="Text" visible="1" printable="1" locked="0" opacity="1" blendmode="0" unfolded="0" ctm="(147.84765625,0, 0,86, 601.5838623046875,63.106071472168)" pivotPoint="0.5,0.5" d="M 0 3.55271368e-15 C 0 3.55271368e-15 1 3.55271368e-15 1 3.55271368e-15 C 1 3.55271368e-15 1 1 1 1 C 1 1 0 1 0 1 C 0 1 0 3.55271368e-15 0 3.55271368e-15 Z " autoclosed="0" handlesArray="F1 M 0 3.55271368e-15 L 0 3.55271368e-15 " text="{\rtf1\ansi\ansicpg1252\cocoartf2580&#x0A;\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}&#x0A;{\colortbl;\red255\green255\blue255;\red251\green0\blue29;\red63\green63\blue63;\red0\green0\blue0;&#x0A;}&#x0A;{\*\expandedcolortbl;;\cssrgb\c100000\c11372\c14510;\cssrgb\c31373\c31373\c31373;\cssrgb\c0\c0\c0;&#x0A;}&#x0A;\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0&#x0A;&#x0A;\f0\fs28 \cf2 Support for Relax NG\&#x0A;\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0&#x0A;\cf3 Constraint modules\&#x0A;&lt;data&gt; - &lt;foreign&gt;\cf4  \&#x0A;\cf3 Structural specialization\&#x0A;Domain specialization}" textlayout="2" drawglyphs="1">
+                        <drawers count="2">
+                            <_0 class="0" name="Stroke" enabled="0" opacity="1" blendmode="0" fillmode="0" stroke="1" salign="0" smode="0">
+                                <solidfiller fill="0,0,0,1" />
+                                <gradientfiller startpoint="0,0.5" endpoint="1,0.5" middlepoint="0,0" gradientroundness="1" gradientstyle="0">
+                                    <gradient count="2">
+                                        <_0 color="0,0,0,1" colorlocation="0" />
+                                        <_1 color="1,0,0,1" colorlocation="1" />
+                                    </gradient>
+                                </gradientfiller>
+                                <pdfShadingFiller ignoreBackground="0" ctm="(1,0, 0,1, 0,0)" />
+                                <style linecapstyle="0" linejoinstyle="0" flatness="0.1" miterlimit="10" linedashphase="0" />
+                                <arrows startarrowstyle="0" startarrowscale="1" endarrowstyle="0" endarrowscale="1" />
+                                <brush angle="0.785398" roundness="0.333333" />
+                            </_0>
+                            <_1 class="1" name="Fill" enabled="0" opacity="1" blendmode="0" fillmode="0" winding="0">
+                                <solidfiller fill="0.666667,0.666667,0.666667,1" />
+                                <gradientfiller startpoint="0,0.5" endpoint="1,0.5" middlepoint="0,0" gradientroundness="1" gradientstyle="0">
+                                    <gradient count="2">
+                                        <_0 color="0,0,0,1" colorlocation="0" />
+                                        <_1 color="1,0,0,1" colorlocation="1" />
+                                    </gradient>
+                                </gradientfiller>
+                                <pdfShadingFiller ignoreBackground="0" ctm="(1,0, 0,1, 0,0)" />
+                            </_1>
+                        </drawers>
+                    </_20>
+                    <_21 class="RectShape" GUID="{293aa15e-c2ef-324f-bb1d-525d8417b1f4}" name="Smart Rectangle" visible="1" printable="1" locked="0" opacity="1" blendmode="0" unfolded="0" ctm="(184.4314788190792,0, 0,423.5533378849892, 592.9351806640617,158.3431278586326)" pivotPoint="0.5,0.5" chamferradius="8,8,8,8" chamfertype="0,0,0,0">
+                        <drawers count="2">
+                            <_0 class="0" name="Stroke" enabled="1" opacity="1" blendmode="0" fillmode="0" stroke="1" salign="0" smode="0">
+                                <solidfiller fill="0,0,0,1" />
+                                <gradientfiller startpoint="0,0.5" endpoint="1,0.5" middlepoint="0,0" gradientroundness="1" gradientstyle="0">
+                                    <gradient count="2">
+                                        <_0 color="0,0,0,1" colorlocation="0" />
+                                        <_1 color="1,0,0,1" colorlocation="1" />
+                                    </gradient>
+                                </gradientfiller>
+                                <pdfShadingFiller ignoreBackground="0" ctm="(1,0, 0,1, 0,0)" />
+                                <style linecapstyle="0" linejoinstyle="0" flatness="0.1" miterlimit="10" linedashphase="0" />
+                                <arrows startarrowstyle="0" startarrowscale="1" endarrowstyle="0" endarrowscale="1" />
+                                <brush angle="0.785398" roundness="0.333333" />
+                            </_0>
+                            <_1 class="1" name="Fill" enabled="1" opacity="1" blendmode="0" fillmode="0" winding="0">
+                                <solidfiller fill="0.78743,0.827019,1,1" />
+                                <gradientfiller startpoint="0,0.5" endpoint="1,0.5" middlepoint="0,0" gradientroundness="1" gradientstyle="0">
+                                    <gradient count="2">
+                                        <_0 color="0,0,0,1" colorlocation="0" />
+                                        <_1 color="1,0,0,1" colorlocation="1" />
+                                    </gradient>
+                                </gradientfiller>
+                                <pdfShadingFiller ignoreBackground="0" ctm="(1,0, 0,1, 0,0)" />
+                            </_1>
+                        </drawers>
+                    </_21>
+                    <_22 class="Text" GUID="{29fccec3-b3fc-e647-b8a0-8cf1e4f36575}" name="Text" visible="1" printable="1" locked="0" opacity="1" blendmode="0" unfolded="0" ctm="(119.095703125,0, 0,86.00000000000001, 601.4538269042969,352.061828613281)" pivotPoint="0.5,0.5" d="M 0 3.55271368e-15 C 0 3.55271368e-15 1 3.55271368e-15 1 3.55271368e-15 C 1 3.55271368e-15 1 1 1 1 C 1 1 0 1 0 1 C 0 1 0 3.55271368e-15 0 3.55271368e-15 Z " autoclosed="0" handlesArray="F1 M 0 3.55271368e-15 L 0 3.55271368e-15 " text="{\rtf1\ansi\ansicpg1252\cocoartf2580&#x0A;\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}&#x0A;{\colortbl;\red255\green255\blue255;\red63\green63\blue63;\red0\green0\blue0;}&#x0A;{\*\expandedcolortbl;;\cssrgb\c31373\c31373\c31373;\cssrgb\c0\c0\c0;}&#x0A;\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0&#x0A;&#x0A;\f0\fs28 \cf2 Bookmaps\&#x0A;Glossary topic type\&#x0A;Enhanced indexing\&#x0A;Graphics scaling\&#x0A;&lt;abstract&gt;\cf3 \&#x0A;}" textlayout="2" drawglyphs="1">
+                        <drawers count="2">
+                            <_0 class="0" name="Stroke" enabled="0" opacity="1" blendmode="0" fillmode="0" stroke="1" salign="0" smode="0">
+                                <solidfiller fill="0,0,0,1" />
+                                <gradientfiller startpoint="0,0.5" endpoint="1,0.5" middlepoint="0,0" gradientroundness="1" gradientstyle="0">
+                                    <gradient count="2">
+                                        <_0 color="0,0,0,1" colorlocation="0" />
+                                        <_1 color="1,0,0,1" colorlocation="1" />
+                                    </gradient>
+                                </gradientfiller>
+                                <pdfShadingFiller ignoreBackground="0" ctm="(1,0, 0,1, 0,0)" />
+                                <style linecapstyle="0" linejoinstyle="0" flatness="0.1" miterlimit="10" linedashphase="0" />
+                                <arrows startarrowstyle="0" startarrowscale="1" endarrowstyle="0" endarrowscale="1" />
+                                <brush angle="0.785398" roundness="0.333333" />
+                            </_0>
+                            <_1 class="1" name="Fill" enabled="0" opacity="1" blendmode="0" fillmode="0" winding="0">
+                                <solidfiller fill="0.666667,0.666667,0.666667,1" />
+                                <gradientfiller startpoint="0,0.5" endpoint="1,0.5" middlepoint="0,0" gradientroundness="1" gradientstyle="0">
+                                    <gradient count="2">
+                                        <_0 color="0,0,0,1" colorlocation="0" />
+                                        <_1 color="1,0,0,1" colorlocation="1" />
+                                    </gradient>
+                                </gradientfiller>
+                                <pdfShadingFiller ignoreBackground="0" ctm="(1,0, 0,1, 0,0)" />
+                            </_1>
+                        </drawers>
+                    </_22>
+                    <_23 class="Text" GUID="{a588935f-82aa-994b-a96e-6fda35aae4cd}" name="Text" visible="1" printable="1" locked="0" opacity="1" blendmode="0" unfolded="0" ctm="(160.248046875,0, 0,137, 600.9688720703125,438.7272949218752)" pivotPoint="0.5,0.5" d="M 0 0 C 0 0 1 0 1 0 C 1 0 1 1 1 1 C 1 1 0 1 0 1 C 0 1 0 0 0 0 Z " autoclosed="0" handlesArray="F1 M 0.00624032551 0 L 0.00624032551 0 " text="{\rtf1\ansi\ansicpg1252\cocoartf2580&#x0A;\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}&#x0A;{\colortbl;\red255\green255\blue255;\red63\green63\blue63;}&#x0A;{\*\expandedcolortbl;;\cssrgb\c31373\c31373\c31373;}&#x0A;\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0&#x0A;&#x0A;\f0\fs28 \cf2 Generic maps\&#x0A;Five topic types\&#x0A;@conref pull\&#x0A;Basic filtering\&#x0A;Basic flagging\&#x0A;URI-based refs\&#x0A;Six emantic domains\&#x0A;Map &lt;reltable&gt;s}" textlayout="0" drawglyphs="1">
+                        <drawers count="2">
+                            <_0 class="0" name="Stroke" enabled="0" opacity="1" blendmode="0" fillmode="0" stroke="1" salign="0" smode="0">
+                                <solidfiller fill="0,0,0,1" />
+                                <gradientfiller startpoint="0,0.5" endpoint="1,0.5" middlepoint="0,0" gradientroundness="1" gradientstyle="0">
+                                    <gradient count="2">
+                                        <_0 color="0,0,0,1" colorlocation="0" />
+                                        <_1 color="1,0,0,1" colorlocation="1" />
+                                    </gradient>
+                                </gradientfiller>
+                                <pdfShadingFiller ignoreBackground="0" ctm="(1,0, 0,1, 0,0)" />
+                                <style linecapstyle="0" linejoinstyle="0" flatness="0.1" miterlimit="10" linedashphase="0" />
+                                <arrows startarrowstyle="0" startarrowscale="1" endarrowstyle="0" endarrowscale="1" />
+                                <brush angle="0.785398" roundness="0.333333" />
+                            </_0>
+                            <_1 class="1" name="Fill" enabled="0" opacity="1" blendmode="0" fillmode="0" winding="0">
+                                <solidfiller fill="0.666667,0.666667,0.666667,1" />
+                                <gradientfiller startpoint="0,0.5" endpoint="1,0.5" middlepoint="0,0" gradientroundness="1" gradientstyle="0">
+                                    <gradient count="2">
+                                        <_0 color="0,0,0,1" colorlocation="0" />
+                                        <_1 color="1,0,0,1" colorlocation="1" />
+                                    </gradient>
+                                </gradientfiller>
+                                <pdfShadingFiller ignoreBackground="0" ctm="(1,0, 0,1, 0,0)" />
+                            </_1>
+                        </drawers>
+                    </_23>
+                    <_24 class="Text" GUID="{46658443-65a3-b649-941f-a408f9fece9b}" name="Text" visible="1" printable="1" locked="0" opacity="1" blendmode="0" unfolded="0" ctm="(143.1855468749999,0, 0,102.9999999999999, 600.4538574218749,245.6244506835938)" pivotPoint="0.5,0.5" d="M 0 3.55271368e-15 C 0 3.55271368e-15 1 3.55271368e-15 1 3.55271368e-15 C 1 3.55271368e-15 1 1 1 1 C 1 1 0 1 0 1 C 0 1 0 3.55271368e-15 0 3.55271368e-15 Z " autoclosed="0" handlesArray="F1 M 0 3.55271368e-15 L 0 3.55271368e-15 " text="{\rtf1\ansi\ansicpg1252\cocoartf2580&#x0A;\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}&#x0A;{\colortbl;\red255\green255\blue255;\red63\green63\blue63;}&#x0A;{\*\expandedcolortbl;;\cssrgb\c31373\c31373\c31373;}&#x0A;\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0&#x0A;&#x0A;\f0\fs28 \cf2 Key-based referencing\&#x0A;Metadata taxonomies\&#x0A;General task topic type\&#x0A;@conref push\&#x0A;Image @scalefit\&#x0A;&lt;text&gt; in most places\&#x0A;}" textlayout="2" drawglyphs="1">
+                        <drawers count="2">
+                            <_0 class="0" name="Stroke" enabled="0" opacity="1" blendmode="0" fillmode="0" stroke="1" salign="0" smode="0">
+                                <solidfiller fill="0,0,0,1" />
+                                <gradientfiller startpoint="0,0.5" endpoint="1,0.5" middlepoint="0,0" gradientroundness="1" gradientstyle="0">
+                                    <gradient count="2">
+                                        <_0 color="0,0,0,1" colorlocation="0" />
+                                        <_1 color="1,0,0,1" colorlocation="1" />
+                                    </gradient>
+                                </gradientfiller>
+                                <pdfShadingFiller ignoreBackground="0" ctm="(1,0, 0,1, 0,0)" />
+                                <style linecapstyle="0" linejoinstyle="0" flatness="0.1" miterlimit="10" linedashphase="0" />
+                                <arrows startarrowstyle="0" startarrowscale="1" endarrowstyle="0" endarrowscale="1" />
+                                <brush angle="0.785398" roundness="0.333333" />
+                            </_0>
+                            <_1 class="1" name="Fill" enabled="0" opacity="1" blendmode="0" fillmode="0" winding="0">
+                                <solidfiller fill="0.666667,0.666667,0.666667,1" />
+                                <gradientfiller startpoint="0,0.5" endpoint="1,0.5" middlepoint="0,0" gradientroundness="1" gradientstyle="0">
+                                    <gradient count="2">
+                                        <_0 color="0,0,0,1" colorlocation="0" />
+                                        <_1 color="1,0,0,1" colorlocation="1" />
+                                    </gradient>
+                                </gradientfiller>
+                                <pdfShadingFiller ignoreBackground="0" ctm="(1,0, 0,1, 0,0)" />
+                            </_1>
+                        </drawers>
+                    </_24>
+                    <_25 class="Text" GUID="{ca563848-db14-334c-ba92-9cbb512fe447}" name="Text" visible="1" printable="1" locked="0" opacity="1" blendmode="0" unfolded="0" ctm="(182.84765625,0, 0,86, 599.4197387695311,157.93115234375)" pivotPoint="0.5,0.5" d="M 0 3.55271368e-15 C 0 3.55271368e-15 1 3.55271368e-15 1 3.55271368e-15 C 1 3.55271368e-15 1 1 1 1 C 1 1 0 1 0 1 C 0 1 0 3.55271368e-15 0 3.55271368e-15 Z " autoclosed="0" handlesArray="F1 M 0 3.55271368e-15 L 0 3.55271368e-15 " text="{\rtf1\ansi\ansicpg1252\cocoartf2580&#x0A;\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}&#x0A;{\colortbl;\red255\green255\blue255;\red251\green0\blue29;\red0\green0\blue0;}&#x0A;{\*\expandedcolortbl;;\cssrgb\c100000\c11372\c14510;\cssrgb\c0\c0\c0;}&#x0A;\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0&#x0A;&#x0A;\f0\fs28 \cf2 Scoped keys\&#x0A;Branch filtering\&#x0A;Troubleshooting topic\&#x0A;SVG and MathML domains\&#x0A;Table markup for accessibility\cf3 \&#x0A;}" textlayout="2" drawglyphs="1">
+                        <drawers count="2">
+                            <_0 class="0" name="Stroke" enabled="0" opacity="1" blendmode="0" fillmode="0" stroke="1" salign="0" smode="0">
+                                <solidfiller fill="0,0,0,1" />
+                                <gradientfiller startpoint="0,0.5" endpoint="1,0.5" middlepoint="0,0" gradientroundness="1" gradientstyle="0">
+                                    <gradient count="2">
+                                        <_0 color="0,0,0,1" colorlocation="0" />
+                                        <_1 color="1,0,0,1" colorlocation="1" />
+                                    </gradient>
+                                </gradientfiller>
+                                <pdfShadingFiller ignoreBackground="0" ctm="(1,0, 0,1, 0,0)" />
+                                <style linecapstyle="0" linejoinstyle="0" flatness="0.1" miterlimit="10" linedashphase="0" />
+                                <arrows startarrowstyle="0" startarrowscale="1" endarrowstyle="0" endarrowscale="1" />
+                                <brush angle="0.785398" roundness="0.333333" />
+                            </_0>
+                            <_1 class="1" name="Fill" enabled="0" opacity="1" blendmode="0" fillmode="0" winding="0">
+                                <solidfiller fill="0.666667,0.666667,0.666667,1" />
+                                <gradientfiller startpoint="0,0.5" endpoint="1,0.5" middlepoint="0,0" gradientroundness="1" gradientstyle="0">
+                                    <gradient count="2">
+                                        <_0 color="0,0,0,1" colorlocation="0" />
+                                        <_1 color="1,0,0,1" colorlocation="1" />
+                                    </gradient>
+                                </gradientfiller>
+                                <pdfShadingFiller ignoreBackground="0" ctm="(1,0, 0,1, 0,0)" />
+                            </_1>
+                        </drawers>
+                    </_25>
+                    <_26 class="Text" GUID="{5594896e-8320-c348-a56f-992d271a0ae7}" name="Text" visible="1" printable="1" locked="0" opacity="1" blendmode="0" unfolded="0" ctm="(167.66015625,0, 0,29, 34.25018310546876,341.3987121582031)" pivotPoint="0.5,0.5" d="M 0 0 C 0 0 1 0 1 0 C 1 0 1 1 1 1 C 1 1 0 1 0 1 C 0 1 0 0 0 0 Z " autoclosed="0" handlesArray="F1 M 0 0 L 0 0 " text="{\rtf1\ansi\ansicpg1252\cocoartf2580&#x0A;\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}&#x0A;{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}&#x0A;{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;}&#x0A;\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0&#x0A;&#x0A;\f0\fs48 \cf2 DITA 1.0 (2005)}" textlayout="2" drawglyphs="1">
+                        <drawers count="2">
+                            <_0 class="0" name="Stroke" enabled="0" opacity="1" blendmode="0" fillmode="0" stroke="1" salign="0" smode="0">
+                                <solidfiller fill="0,0,0,1" />
+                                <gradientfiller startpoint="0,0.5" endpoint="1,0.5" middlepoint="0,0" gradientroundness="1" gradientstyle="0">
+                                    <gradient count="2">
+                                        <_0 color="0,0,0,1" colorlocation="0" />
+                                        <_1 color="1,0,0,1" colorlocation="1" />
+                                    </gradient>
+                                </gradientfiller>
+                                <pdfShadingFiller ignoreBackground="0" ctm="(1,0, 0,1, 0,0)" />
+                                <style linecapstyle="0" linejoinstyle="0" flatness="0.1" miterlimit="10" linedashphase="0" />
+                                <arrows startarrowstyle="0" startarrowscale="1" endarrowstyle="0" endarrowscale="1" />
+                                <brush angle="0.785398" roundness="0.333333" />
+                            </_0>
+                            <_1 class="1" name="Fill" enabled="0" opacity="1" blendmode="0" fillmode="0" winding="0">
+                                <solidfiller fill="0.666667,0.666667,0.666667,1" />
+                                <gradientfiller startpoint="0,0.5" endpoint="1,0.5" middlepoint="0,0" gradientroundness="1" gradientstyle="0">
+                                    <gradient count="2">
+                                        <_0 color="0,0,0,1" colorlocation="0" />
+                                        <_1 color="1,0,0,1" colorlocation="1" />
+                                    </gradient>
+                                </gradientfiller>
+                                <pdfShadingFiller ignoreBackground="0" ctm="(1,0, 0,1, 0,0)" />
+                            </_1>
+                        </drawers>
+                    </_26>
+                    <_27 class="Text" GUID="{260ed6e2-8ab6-7741-8b10-a905840bea8f}" name="Text" visible="1" printable="1" locked="0" opacity="1" blendmode="0" unfolded="0" ctm="(167.66015625,0, 0,29, 222.455810546875,224.9455261230469)" pivotPoint="0.5,0.5" d="M 0 0 C 0 0 1 0 1 0 C 1 0 1 1 1 1 C 1 1 0 1 0 1 C 0 1 0 0 0 0 Z " autoclosed="0" handlesArray="F1 M 0 0 L 0 0 " text="{\rtf1\ansi\ansicpg1252\cocoartf2580&#x0A;\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}&#x0A;{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}&#x0A;{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;}&#x0A;\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0&#x0A;&#x0A;\f0\fs48 \cf2 DITA 1.1 (2007)}" textlayout="2" drawglyphs="1">
+                        <drawers count="2">
+                            <_0 class="0" name="Stroke" enabled="0" opacity="1" blendmode="0" fillmode="0" stroke="1" salign="0" smode="0">
+                                <solidfiller fill="0,0,0,1" />
+                                <gradientfiller startpoint="0,0.5" endpoint="1,0.5" middlepoint="0,0" gradientroundness="1" gradientstyle="0">
+                                    <gradient count="2">
+                                        <_0 color="0,0,0,1" colorlocation="0" />
+                                        <_1 color="1,0,0,1" colorlocation="1" />
+                                    </gradient>
+                                </gradientfiller>
+                                <pdfShadingFiller ignoreBackground="0" ctm="(1,0, 0,1, 0,0)" />
+                                <style linecapstyle="0" linejoinstyle="0" flatness="0.1" miterlimit="10" linedashphase="0" />
+                                <arrows startarrowstyle="0" startarrowscale="1" endarrowstyle="0" endarrowscale="1" />
+                                <brush angle="0.785398" roundness="0.333333" />
+                            </_0>
+                            <_1 class="1" name="Fill" enabled="0" opacity="1" blendmode="0" fillmode="0" winding="0">
+                                <solidfiller fill="0.666667,0.666667,0.666667,1" />
+                                <gradientfiller startpoint="0,0.5" endpoint="1,0.5" middlepoint="0,0" gradientroundness="1" gradientstyle="0">
+                                    <gradient count="2">
+                                        <_0 color="0,0,0,1" colorlocation="0" />
+                                        <_1 color="1,0,0,1" colorlocation="1" />
+                                    </gradient>
+                                </gradientfiller>
+                                <pdfShadingFiller ignoreBackground="0" ctm="(1,0, 0,1, 0,0)" />
+                            </_1>
+                        </drawers>
+                    </_27>
+                    <_28 class="Text" GUID="{825d6f1b-d79c-e745-bc96-ce8dfce2de86}" name="Text" visible="1" printable="1" locked="0" opacity="1" blendmode="0" unfolded="0" ctm="(167.66015625,0, 0,29, 387.7090454101562,77.01762390136719)" pivotPoint="0.5,0.5" d="M 0 0 C 0 0 1 0 1 0 C 1 0 1 1 1 1 C 1 1 0 1 0 1 C 0 1 0 0 0 0 Z " autoclosed="0" handlesArray="F1 M 0 0 L 0 0 " text="{\rtf1\ansi\ansicpg1252\cocoartf2580&#x0A;\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}&#x0A;{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}&#x0A;{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;}&#x0A;\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0&#x0A;&#x0A;\f0\fs48 \cf2 DITA 1.2 (2010)}" textlayout="2" drawglyphs="1">
+                        <drawers count="2">
+                            <_0 class="0" name="Stroke" enabled="0" opacity="1" blendmode="0" fillmode="0" stroke="1" salign="0" smode="0">
+                                <solidfiller fill="0,0,0,1" />
+                                <gradientfiller startpoint="0,0.5" endpoint="1,0.5" middlepoint="0,0" gradientroundness="1" gradientstyle="0">
+                                    <gradient count="2">
+                                        <_0 color="0,0,0,1" colorlocation="0" />
+                                        <_1 color="1,0,0,1" colorlocation="1" />
+                                    </gradient>
+                                </gradientfiller>
+                                <pdfShadingFiller ignoreBackground="0" ctm="(1,0, 0,1, 0,0)" />
+                                <style linecapstyle="0" linejoinstyle="0" flatness="0.1" miterlimit="10" linedashphase="0" />
+                                <arrows startarrowstyle="0" startarrowscale="1" endarrowstyle="0" endarrowscale="1" />
+                                <brush angle="0.785398" roundness="0.333333" />
+                            </_0>
+                            <_1 class="1" name="Fill" enabled="0" opacity="1" blendmode="0" fillmode="0" winding="0">
+                                <solidfiller fill="0.666667,0.666667,0.666667,1" />
+                                <gradientfiller startpoint="0,0.5" endpoint="1,0.5" middlepoint="0,0" gradientroundness="1" gradientstyle="0">
+                                    <gradient count="2">
+                                        <_0 color="0,0,0,1" colorlocation="0" />
+                                        <_1 color="1,0,0,1" colorlocation="1" />
+                                    </gradient>
+                                </gradientfiller>
+                                <pdfShadingFiller ignoreBackground="0" ctm="(1,0, 0,1, 0,0)" />
+                            </_1>
+                        </drawers>
+                    </_28>
+                    <_29 class="Text" GUID="{072f48f6-d124-6d48-9e4c-ab77871fb703}" name="Text" visible="1" printable="1" locked="0" opacity="1" blendmode="0" unfolded="0" ctm="(167.66015625,0, 0,29, 601.21533203125,19.79644775390625)" pivotPoint="0.5,0.5" d="M 0 0 C 0 0 1 0 1 0 C 1 0 1 1 1 1 C 1 1 0 1 0 1 C 0 1 0 0 0 0 Z " autoclosed="0" handlesArray="F1 M 0 0 L 0 0 " text="{\rtf1\ansi\ansicpg1252\cocoartf2580&#x0A;\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}&#x0A;{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}&#x0A;{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;}&#x0A;\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0&#x0A;&#x0A;\f0\fs48 \cf2 DITA 1.2 (2015)}" textlayout="2" drawglyphs="1">
+                        <drawers count="2">
+                            <_0 class="0" name="Stroke" enabled="0" opacity="1" blendmode="0" fillmode="0" stroke="1" salign="0" smode="0">
+                                <solidfiller fill="0,0,0,1" />
+                                <gradientfiller startpoint="0,0.5" endpoint="1,0.5" middlepoint="0,0" gradientroundness="1" gradientstyle="0">
+                                    <gradient count="2">
+                                        <_0 color="0,0,0,1" colorlocation="0" />
+                                        <_1 color="1,0,0,1" colorlocation="1" />
+                                    </gradient>
+                                </gradientfiller>
+                                <pdfShadingFiller ignoreBackground="0" ctm="(1,0, 0,1, 0,0)" />
+                                <style linecapstyle="0" linejoinstyle="0" flatness="0.1" miterlimit="10" linedashphase="0" />
+                                <arrows startarrowstyle="0" startarrowscale="1" endarrowstyle="0" endarrowscale="1" />
+                                <brush angle="0.785398" roundness="0.333333" />
+                            </_0>
+                            <_1 class="1" name="Fill" enabled="0" opacity="1" blendmode="0" fillmode="0" winding="0">
+                                <solidfiller fill="0.666667,0.666667,0.666667,1" />
+                                <gradientfiller startpoint="0,0.5" endpoint="1,0.5" middlepoint="0,0" gradientroundness="1" gradientstyle="0">
+                                    <gradient count="2">
+                                        <_0 color="0,0,0,1" colorlocation="0" />
+                                        <_1 color="1,0,0,1" colorlocation="1" />
+                                    </gradient>
+                                </gradientfiller>
+                                <pdfShadingFiller ignoreBackground="0" ctm="(1,0, 0,1, 0,0)" />
+                            </_1>
+                        </drawers>
+                    </_29>
                 </Objects>
             </_0>
         </Objects>
