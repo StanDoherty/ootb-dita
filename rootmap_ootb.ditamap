@@ -2,9 +2,12 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
     <title></title>
-    <topicref href="outline.dita"/>
+    <topicref href="dita-audience.dita"/>
+    <topicref href="ShowMeTheMoney.dita"/>
+    <topicref href="boundaries.dita"/>
     <topicref href="audience-roles.dita"/>
     <topicref href="taleof2ditas.dita"/>
     <topicref href="fromgoodstock.dita"/>
     <topicref href="myths.dita"/>
+    <topicref href="outline.dita"/>
 </map>
