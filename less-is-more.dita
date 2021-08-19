@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_k5f_kds_qqb">
+    <title>Less is more</title>
+    <body>
+        <p>The good news about DITA is that it provides at least three ways to do most anything. The
+            bad news about DITA is that it provides at least three ways to do most anything. With
+            few exceptions, by the way, your customers can never tell whether used one method to
+            manage keywords or three methods. If your team does not proactively limit the number of
+            ways to do something, the complexity in DITA will manage you. You cease to be managing
+            DITA.  </p>
+        <p>This is actually worthy of an extended example. </p>
+        <section id="section_avz_d2s_qqb">
+            <title>Sharing a topic with minor, product-specific variations</title>
+            <p>Managing content reuse is all about managing variation between products, audiences,
+                delivery methods, target platforms, and so on. Let's assume that your team is
+                responsible for developing content for three widgets, imaginatively named by your
+                Marketing team Mega-Widget, Mega-Widget Pro, and Mega-Widget Enterprise. Just go
+                with it for now. Although information about product support is 90% the same for each
+                widget, there are minor variations about guaranteed response times and contact
+                information. Once you have written the first DITA concept topic specifying support
+                information for one widget, you have a decision to make – <i>should you maintain
+                    separate <filepath>contact-support.dita</filepath> topics for each widget or
+                    have one shared topic containing variant content for each widget? </i></p>
+            <p>If you choose to maintain one shared <filepath>contact-support.dita</filepath> topic,
+                you'll need to choose a  DITA reuse method to manage including the correct variation
+                on the appropriate widget doc. </p>
+            <ul id="ul_d4y_g4s_qqb">
+                <li>
+                    <p>Put all variations in the shared topic and use DITA conditions and DITAVAL
+                        rules files to filter out inappropriate variations at build time. This is
+                        commonly known as conditional processing. See XXX.</p>
+                </li>
+                <li>
+                    <p>Put each variation in a separate key definition library and link to the
+                        appropriate library file from your DITA rootmap. For any one build from that
+                        rootmap, the key references in the shared topic resolve to same key name in
+                        three different libraries. Much more on this later. See XXX.</p>
+                </li>
+                <li>
+                    <p>Put each variation in a separate library topic. At build time, copy the
+                        appropriate library topic into the build folder. For any one build, the
+                        shared topic contains the same content reference code that resolves to the
+                        library file copied into the build folder. See XXX.</p>
+                </li>
+            </ul>
+            <p>Any one of these reuse methods will work for your shared topic
+                    <filepath>contact-support.dita</filepath> and for the other 300 shared topics
+                that you will develop over time. The less-is-more trap with DITA is that you do not
+                want to have 100 shared topics use one reuse method, another 100 use a different
+                method, and a final 100 use a third method. Supporting multiple reuse methods
+                ultimately inhibits reuse across all your content. To accomplish one goal – sharing
+                topics with minor content variations – choose one method, document it, train your
+                team on it, and monitor compliance. If you discover isolated use cases where your
+                preferred reuse method is not optimal for a particular shared topic, be tough.
+                Choosing a few sub-optimal solutions for isolated use cases beats making
+                    <i>everyone</i> learn a new reuse method and follow another governance workflow.
+            </p>
+        </section>
+    </body>
+</topic>

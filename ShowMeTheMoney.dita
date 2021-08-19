@@ -5,5 +5,42 @@
     <body>
         <p>Have you ever noticed that </p>
         <p/>
+        <p>When I wander my way into undergraduate classrooms to talk about technical writing, I ask
+            students "What makes a technical writer a <i>professional</i> technical writer?" Eager
+            to impress, typically they respond:</p>
+        <ul id="ul_qg3_g5n_qqb">
+            <li>
+                <p>Professional writers have absorbed </p>
+            </li>
+            <li>
+                <p>Professional writers are members of a culture </p>
+            </li>
+            <li>
+                <p>Professional writers develop content that reflects the best practices </p>
+            </li>
+            <li>
+                <p>Professional writers have appropriate degrees from institutions of higher
+                    learning. </p>
+            </li>
+            <li>
+                <p>Practitioners of a craft . . . </p>
+            </li>
+            <li>
+                <p/>
+            </li>
+        </ul>
+        <p>Professional technical writers are paid by one or more employers to perform specific
+            tasks. </p>
+        <p>"No man but a blockhead ever wrote, except for money."<i>Boswell: Life</i></p>
+        <p>"I would say to Robertson what an old tutor of a college said to one of his pupils:'Read
+            over your compositions, and where ever you meet with a passage which you think is
+            particularly fine, strike it out.'"<i>Boswell: Life of Johnson</i></p>
+        <p>On the task of editing Shakespeare, which Hawkins told Johnson should be intrinsically
+            rewarding: "I look upon this as I did upon the <i>Dictionary:</i> it is all work, and my
+            inducement to it is not love or desire of fame, but the want of money, which is the only
+            motive to writing that I know of."<i>Sir John Hawkins: The Life Of Samuel
+            Johnson</i></p>
+        <p>"In all pointed sentences, some degree of accuracy must be sacrificed to
+                conciseness."<i>Johnson: The Bravery of the English Common Soldier</i></p>
     </body>
 </topic>

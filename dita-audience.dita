@@ -3,30 +3,33 @@
 <topic id="topic_tgf_wrn_qqb">
     <title>DITA audience</title>
     <body>
-        <p>When I wander my way into undergraduate classrooms to talk about technical writing, I ask
-            students "What makes a technical writer a <i>professional</i> technical writer?"
-            Typically, we get:</p>
-        <ul id="ul_qg3_g5n_qqb">
-            <li>
-                <p>Professional writers have absorbed </p>
-            </li>
-            <li>
-                <p>Professional writers are members of a culture </p>
-            </li>
-            <li>
-                <p>Professional writers develop content that reflects the best practices </p>
-            </li>
-            <li>
-                <p>Professional writers have apprpriate degress from institutions of higher
-                    lerarning. </p>
-            </li>
-            <li>
-                <p/>
-            </li>
-            <li>
-                <p/>
-            </li>
-        </ul>
-        <p>Professional technical writers are paid. </p>
+        <p>Clenming </p>
+        <p>I suspect that the rituals have not changed fundamentally -- whether we call it
+            "downsizing" or "cleaning the stuff" out of the family cave.  </p>
+        <image placement="break" href="images/clean-the-cave.jpg" id="image_avq_ywt_qqb">
+            <alt>Cleaning the cave</alt>
+        </image>
+        <p><xref
+                href="https://science.time.com/2013/12/04/neanderthals-were-neat-freaks-inside-the-original-man-caves/"
+                format="html" scope="external"/></p>
+        <p>So what do you do, practically, with 17 years of collected specs, tech papers, books,
+            slide presentations, recordings,  conference proceedings, style guides, and internal
+            user guides – all about OASIS DITA. Oh yes, Dumpster Depot was an option,.but there was
+            also some desire to look back and make some sense of it. </p>
+        <p>Busking is a great way to gain experience as a musician. It will teach you a lot about
+            what people like, and how to get and keep their attention. It can be hard work,
+            especially if you’re new to it, but it’s worth the effort – you’ll learn to earn more
+            tips and maybe even make new converts out of onlookers. They might end up buying your
+            album or coming to your next show if they like what you’re doing.</p>
+        <p><xref
+                href="https://www.musicindustryhowto.com/how-to-start-busking-and-street-performing/"
+                format="html" scope="external"/></p>
+        <p><b>What advice would you give to anyone considering the same move?</b>Any aspiring DJ or
+            producer looking to make the move from day job to full-time musician needs to think it
+            through. Make sure the ball is rolling in forward motion and make sure there is momentum
+            and enough money coming in before you leave your day job.</p>
+        <p><xref
+                href="https://www.vice.com/en/article/j5qbex/how-to-quit-corporate-job-for-music-guide"
+                format="html" scope="external"/></p>
     </body>
 </topic>

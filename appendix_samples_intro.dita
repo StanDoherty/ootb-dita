@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_myz_r2t_qqb">
+    <title>Samples</title>
+    <body>
+        <p></p>
+        <ul id="ul_d4y_g4s_qqb">
+            <li>
+                <p>Put all variations in the shared topic and use DITA conditions and DITAVAL rules
+                    files to filter out inappropriate variations at build time. This is commonly
+                    known as conditional processing. See XXX.</p>
+            </li>
+            <li>
+                <p>Put each variation in a separate key definition library and link to the
+                    appropriate library file from your DITA rootmap. For any one build from that
+                    rootmap, the key references in the shared topic resolve to same key name in
+                    three different libraries. Much more on this later. See XXX.</p>
+            </li>
+            <li>
+                <p>Put each variation in a separate library topic. At build time, copy the
+                    appropriate library topic into the build folder. For any one build, the shared
+                    topic contains the same content reference code that resolves to the library file
+                    copied into the build folder. See XXX.</p>
+            </li>
+        </ul>
+    </body>
+</topic>
