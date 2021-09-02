@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_zkw_4cr_5qb">
+    <title>The laws of DITA – kind of</title>
+    <shortdesc>If DITA were governed by some set of immutable laws, they would be the Pareto
+        Principle, Murphy's Law, and Beeker's Law.   </shortdesc>
+    <conbody>
+        <p>In fields such as physics, you learn about of the scientific method, Newton's first law
+            of motion, Einstein's general theory of relativity, strong and weak forces, Heisenberg's
+            uncertainty principle, string theory, chaos theory, and quantum mechanics in your
+            Physics 101 class. If you want to have a discussion about some of the most recent
+            research in quantum computing, for example, you need to frame or "govern" the discussion
+            within the laws of quantum mechanics, not Newtonian mechanics. The design of DITA is
+            informed by some fabulous constitutive principles such as topic-based authoring,
+            minimalism, inheritance, specialization, encapsulation, and so forth – but it is not
+            "governed" by them. You can implement DITA with all of them or none of them. No two DITA
+            implementations are identical – or even similar in many cases. </p>
+        <p>That said, I have found that every DITA migration – regardless of its technical
+            variations – did respect three operational laws or principles.  </p>
+        <section id="section_g3r_qgr_5qb">
+            <title>The Pareto Principle</title>
+            <p>80% of the effects come from 20% of the causes</p>
+            <p>++ The top-10 DITA basics</p>
+            <p>– - The top-5 DITA screw-ups</p>
+        </section>
+        <section id="section_o2n_rgr_5qb">
+            <title>Murphy's Law</title>
+            <p/>
+        </section>
+        <section id="section_gg1_sgr_5qb">
+            <title>Beaker's Law</title>
+            <p>If you are coerced into supporting a stupid or unrealistic goal in your DITA
+                migration, things will end badly – lab explosions and death. The back story here is
+                that Dr. Bunsen Honeydew on <i>The Muppet Show</i> set unrealistic development goals
+                for himself and, tragically, for his compliant lab assistant named Beaker. These
+                included the Electronic Pet Converter, the Nuclear-powered Shaver, Edible
+                Paperclips, and the Banana Sharpener. As each lab experiment devolves into
+                confusion, chaos, and cataclysm, Beaker becomes increasingly agitated and panicky.
+                Yet he seems incapable of challenging Dr. Honeydew and the logic of his experiment. </p>
+            <p>Some people who sell DITA have equivalent banana sharpeners, wildly unrealistic
+                expectations or assumptions. You cannot prevent these unrealistic goals from being
+                brought up as rationalizations for adopting DITA – they're out there. But you can
+                challenge them and create pilot projects to debunk them before you are coerced into
+                supporting them or, worse yet, becoming the spokesperson for them. Here are my
+                favorite banana sharpeners.  </p>
+            <ul id="ul_c1v_yjr_5qb">
+                <li>
+                    <p>Converting our current content to DITA markup will automatically improve its
+                        quality.</p>
+                </li>
+                <li>
+                    <p>Once we convert our current content to DITA, we will not need so many tech
+                        writers. </p>
+                </li>
+                <li>
+                    <p>In the process of converting our current content to DITA, all redundant or
+                        variant content will morph into ready-to-reuse content. </p>
+                </li>
+                <li>
+                    <p>In the first year of our migration, we'll see tremendous benefits. </p>
+                </li>
+                <li>
+                    <p>We won't need any specialized technical support or tooling to make this
+                        happen. It's all ready-to-deploy open source software, right? </p>
+                </li>
+                <li>
+                    <p/>
+                </li>
+            </ul>
+        </section>
+    </conbody>
+</concept>
