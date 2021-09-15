@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_brn_l3q_5qb">
+    <title>Journeys</title>
+    <shortdesc>Every migration is a journey.</shortdesc>
+    <conbody>
+        <p>When I was a young man – a while back – I clung to the belief that "truth" somehow
+            existed on the other side of my working assumptions, delusions, metaphors, and dogmas.
+            Not so sure now. I find it more practical now to focus on the quality of my life
+            metaphors and not on their deconstruction. The metaphor that "life is a journey" is
+            certainly a high-quality life metaphor and directly relevant to considering your path
+            toward or away from DITA.</p>
+        <p/>
+        <section id="section_znx_ckq_5qb">
+            <title>Heroic journeys</title>
+            <p>Oh yes – we have been exposed so many instances of heroic journeys that we may assume
+                that they are the default model for setting a new direction. </p>
+            <ul id="ul_y31_5kq_5qb">
+                <li>
+                    <p>Homer's <i>Iliad</i> and <i>Odyssey</i>: Odysseus abandons home and family to
+                        join the expedition to Troy. He then abandons the Greek army and eventually
+                        all his crew to journey home to Ithaca.   </p>
+                </li>
+                <li>
+                    <p>Hebrew Testament <i>Exodus</i>: </p>
+                </li>
+                <li>
+                    <p>Boccaccio <i>The DeCameron</i>: </p>
+                </li>
+                <li>
+                    <p>Geoffrey Chaucer's <i>Canterbury Tales</i>: </p>
+                </li>
+                <li>
+                    <p>Cervantes Don Quixote</p>
+                </li>
+                <li>
+                    <p>John Bunyan's The Pilgrim's Progress</p>
+                </li>
+                <li>
+                    <p>Charlotte Brontë's <i>Jane Eyre</i>: </p>
+                </li>
+                <li>
+                    <p>Mark Twain, <i>Huck Finn</i>: </p>
+                </li>
+                <li>
+                    <p>J.R.R. Tolkein's <i>Fellowship of the Ring</i>: </p>
+                </li>
+                <li>
+                    <p>George Lucas' <i>Star Wars: A New Hope</i>:  Luke </p>
+                </li>
+            </ul>
+            <p>Joseph Campbell in <i>Hero with a Thousand Faces</i> suggests that many of these
+                journeys are so similar in narrative shape that they are really variations of one
+                archetypal story. </p>
+            <p>A common thread in these heroic journeys is that our heroines and heroes cannot turn
+                back or suspend the journey. To describe this sense of total commitment, John
+                Fitzpatrick Kennedy used the metaphor of throwing one's school uniform cap over a
+                high wall. If you didn't scale the wall, you were not admitted back to school. </p>
+            <p>Is a migration to DITA like one of these heroic journeys? Does it require some heroic
+                level of commitment and detachment from home base?</p>
+        </section>
+        <section id="section_nqs_dkq_5qb">
+            <title>Pragmatic journeys</title>
+            <p>To my knowledge, no one has penned a heroic journey toward the goal of reducing the
+                number of Customer Support calls, or increasing content reuse to reduce localization
+                costs, or improving customer experience through consistent content organization.
+                Sigh. I do wish that it were so, but what we're paid to do ain't heroic. It's
+                business. </p>
+            <p>It's good business to be skeptical about anything grandiose with DITA – benefits,
+                costs, disruption, training, consulting, or technologies. It's pragmatic to do some
+                weekend busking before you quit your day job to play music professionally. It's
+                pragmatic to go on some road trips to a region before you sell your house. It's
+                pragmatic to plan some inexpensive day trips before making any commitments to DITA.  </p>
+            <ul id="ul_bxh_lvq_5qb">
+                <li>
+                    <p>Identify other DITA companies in your area and invite some of their pubs
+                        people to a free lunch. Get them talking. Ply them with the appropriate
+                        refreshments. </p>
+                </li>
+                <li>
+                    <p>Download, evaluate, and modify collections of open-source DITA sources. See
+                            <xref href="https://github.com/orgs/dita/repositories" format="html"
+                            scope="external"/> or <xref
+                            href="https://wiki.oasis-open.org/dita-adoption/ditaSourceSets"
+                            format="html" scope="external">Open Source DITA Collections</xref>.
+                    </p>
+                </li>
+                <li>
+                    <p>Talk to reps from or users of competitive solutions to DITA such as MadCap
+                        Flare, Paligo, Microsoft Office, Read the Docs, GitHub, or Atlassian
+                        Confluence. Transform all the criticisms and concerns into a list of issues
+                        that <i>you</i> should research, test, and resolve <i>to your own
+                            satisfaction</i>. Get ahead of the issues that someone else will
+                        certainly raise if you choose to move ahead with DITA. The Dodgers pitcher
+                        Preacher Roe advised young ball players to be diligent in preparing for
+                        every game with the quip, "Sometimes you eat the bear and sometimes the bear
+                        eats you." You can never be 100% certain how a DITA migration will go, but
+                        it certainly helps to talk to people who have walked the same woods you plan
+                        to walk or want to scare you away from entering those woods entirely. </p>
+                </li>
+                <li>
+                    <p>Research conference presentations (use cases) about previous DITA migrations
+                        – successful and unsuccessful. Reviewing those 20-30 slides on "lessons
+                        learned" could easily save you months or years of avoidable pain. I have
+                        found that presenters who are mature enough to tell the world what they done
+                        right and done wrong in a migration are typically willing to get on ZOOM
+                        call with your team do some follow-up. Assume that people are generous and
+                        gracious in their wisdom. </p>
+                </li>
+                <li>
+                    <p>Join DITA user groups and user forums.</p>
+                </li>
+                <li>
+                    <p/>
+                </li>
+                <li>
+                    <p/>
+                </li>
+                <li>
+                    <p/>
+                </li>
+                <li>
+                    <p/>
+                </li>
+            </ul>
+            <p>Be that pragmatic heroine or hero. Do those day trips before road trips before
+                cross-country relocation. </p>
+        </section>
+    </conbody>
+</concept>

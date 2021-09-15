@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_uhj_5fq_5qb">
+    <title>Scalability</title>
+    <shortdesc>How do you manage scalability in DITA? How can you mess it up to a fare-thee-well? </shortdesc>
+    <conbody>
+        <p>VPs love it. Sacred mantra. No one understands it. Difficult to manage or measure. </p>
+        <section id="section_dtv_hgq_5qb">
+            <title>Scaling up (complexity)</title>
+            <p>increase something in size, number or extent, especially by a constant proportion
+                across the board. "one cannot suddenly scale up a laboratory procedure by a
+                thousandfold" (of a factory, company, or system) increase production or capacity.
+                "they can buy in at low cost and scale up as the company grows"</p>
+        </section>
+        <section id="section_arw_ygq_5qb">
+            <title>Scale-up or Vertical Scaling</title>
+            <p>Scale-up is done by adding more resources to an existing system to reach a desired
+                state of performance. For example, a database or web server needs additional
+                resources to continue performance at a certain level to meet SLAs. More compute,
+                memory, storage, or network can be added to that system to keep the performance at
+                desired levels. When this is done in the cloud, applications often get moved onto
+                more powerful instances and may even migrate to a different host and retire the
+                server it was on. Of course, this process should be transparent to the customer.
+                Scaling-up can also be done in software by adding more threads, more connections, or
+                in cases of database applications, increasing cache sizes. These types of scale-up
+                operations have been happening on-premises in datacenters for decades. However, the
+                time it takes to procure additional recourses to scale-up a given system could take
+                weeks or months in a traditional on-premises environment while scaling-up in the
+                cloud can take only minutes.</p>
+        </section>
+        <section id="section_arj_jhq_5qb">
+            <title><b>Scale up </b></title>
+            <p>Resources such as CPU, network, and storage are common targets for scaling up. The
+                goal is to increase the resources supporting your application to reach or maintain
+                adequate performance. In a hardware-centric world, this might mean adding a larger
+                hard drive to a computer for increased storage capacity. It might mean replacing the
+                entire computer with a machine that has more CPU and a more performant network
+                interface. If you are managing a non-cloud system, this scaling up process can take
+                anywhere from weeks up to months as you request, purchase, install, and finally
+                deploy the new resources. </p>
+            <p>In a cloud system, the process should take seconds or minutes. A cloud system might
+                still target hardware and that will be on the tens of minutes end of the time to
+                scale range. But virtualized systems dominate cloud computing and some scaling
+                actions, like increasing storage volume capacity or spinning up a new container to
+                scale up a microservice can take seconds to deploy. What is being scaled will not be
+                that different. One may still shift applications to a larger VM or it may be as
+                simple as allocating more capacity on an attached storage volume. </p>
+            <p>Regardless of whether you are dealing with virtual or hardware resources, the
+                take-home point is that you are moving from one smaller resource and scaling up to
+                one larger, more performant resource.</p>
+        </section>
+        <section id="section_ctg_1hq_5qb">
+            <title>Scale-out or Horizontal Scaling</title>
+            <p>Scale-out is usually associated with distributed architectures. There are two basic
+                forms of scaling out: Adding additional infrastructure capacity in pre-packaged
+                blocks of infrastructure or nodes (i.e. hyper-converged) or use a distributed
+                service that can retrieve customer information but be independent of applications or
+                services. Both approaches are used in CSPs today along with vertical scaling for
+                individual components (compute, memory, network, and storage) to drive down costs.
+                Horizontal scaling makes it easy for service providers to offer “pay-as-you-grow”
+                infrastructure and services.</p>
+            <p>Hyper-converged infrastructure has become increasingly popular for use in private
+                cloud and even tier 2 service providers. This approach is not quite as loosely
+                coupled as other forms of distributed architectures but, it does help IT managers
+                that are used to traditional architectures make the transition to horizontal scaling
+                and realize the associated cost benefits.</p>
+            <p>Loosely coupled distributed architecture allows for scaling of each part of the
+                architecture independently. This means a group of software products can be created
+                and deployed as independent pieces, even though they work together to manage a
+                complete workflow. Each application is made up of a collection of abstracted
+                services that can function and operate independently. This allows for horizontal
+                scaling at the product level as well as the service level. Even more granular
+                scaling capabilities can be delineated by SLA or customer type (e.g. bronze, silver,
+                or gold) or even by API type if there are different levels of demand for certain
+                APIs. This can promote an efficient use of scaling within a given
+                infrastructure.</p>
+        </section>
+        <section id="section_oks_khq_5qb">
+            <title><b>Scale out</b></title>
+            <p>Scaling up makes sense when you have an application that needs to sit on a single
+                machine. If you have an application that has a loosely coupled architecture, it
+                becomes possible to easily scale out by replicating resources. </p>
+            <p>Scaling out a microservices application can be as simple as spinning up a new
+                container running a webserver app and adding it to the load balancer pool. When
+                scaling out the idea is that it is possible to add identical services to a system to
+                increase performance. Systems that support this model also tolerate the removal of
+                resources when the load decreases. This allows greater fluidity in scaling resource
+                size in response to changing conditions. </p>
+            <p>The incremental nature of the scale out model is of great benefit when considering
+                cost management. Because components are identical, cost increments should be
+                relatively predictable. Scaling out also provides greater responsiveness to changes
+                in demand. Typically services can be rapidly added or removed to best meet resource
+                needs. This flexibility and speed effectively reduces spending by only using (and
+                paying for) the resources needed at the time. </p>
+        </section>
+        <section id="section_ppx_4hq_5qb">
+            <p>Scale up = ordering Chinese take-out AND pizza. </p>
+            <p>Scale out = adding the same grill favorites for a larger number of picnic guests.
+            </p>
+        </section>
+    </conbody>
+</concept>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_xwg_1db_wqb">
+    <title>Content and skills</title>
+    <shortdesc>People and skills</shortdesc>
+    <conbody>
+        <p>Yes – it's true. In the absence of a Top-40 radio station broadcasting pop songs, Teddy
+            Roosevelt and I did drop nickels (remember those?) in a jukebox. Our local bowling alley
+            installed a jukebox and the vendor managed to install the latest pop hits (45 RPM
+            records). Well it did not take long for this jukebox to attract local tweens and teens
+            eager to hang out, chatter, and dance. The bowling alley owner blamed the rock and roll
+            music for all the noise and commotion, but I suspect that the music simply catalyzed
+            some changes that were already taking place in us.</p>
+        <image placement="break" href="images/jukebox.jpg" id="image_czj_12b_wqb">
+            <alt>jukebox</alt>
+        </image>
+        <section id="section_xhz_ffb_wqb">
+            <title>Architecture and skills</title>
+            <p>When I chat with teams who have recently moved to DITA, I ask them the following
+                questions.</p>
+            <ol id="ol_aqt_nhb_wqb">
+                <li>
+                    <p>What were your previous two authoring environments? </p>
+                    <p>Typically the identify MS Word, unstructured Framemaker, MadCap Flare,
+                        Paligo, Markdown, Confluence, or HTML.</p>
+                </li>
+                <li>
+                    <p>Were the transitions from any one of these to another as challenging or
+                        disruptive as your transition to DITA? </p>
+                    <p>Universally they respond, "no". Their DITA migrations were more stressful,
+                        challenging, and iterative than they had anticipated. </p>
+                </li>
+                <li>
+                    <p>What made the DITA migration more stressful than moving your content between
+                        Word and Flare or between Markdown and Framemaker? </p>
+                    <p>Most mentioned that DITA required a set of new skills that the team had only
+                        partially learned or practiced. More training might have helped, but
+                        basically teams had been forced to learn new concepts and skills versus
+                        re-applying familiar ones. </p>
+                    <p>A few fast swimmers focused on the state of their content before the DITA
+                        migration. If the team had taken years to develop thousands of rambling,
+                        10-30 page source files, a transition between Flare and Word would be more
+                        straight-forward than moving the content into semantic markup, managed
+                        linking, and structured (XML) topic types. Ironically – , by providing
+                        solutions to the common limitations in linear unstructured content, DITA
+                            <i>exposed</i> those limitations.    </p>
+                </li>
+            </ol>
+            <p>Rock and roll music did not coerce or force us teens around the jukebox to sing and
+                dance; we were ready for a change and we learned the new slang and the new dance
+                moves to be one of the "cool kids". With its modularity, information typing, and
+                sophisticated mechanisms for content reuse, DITA serves as that anvil or workbench
+                for deconstructing 1990s-style docs into intelligent content. The teams, in fact,
+                that have the least <i>agita</i> moving their content into DITA are the ones who
+                have invested serious time in planning the deconstruction. </p>
+        </section>
+        <section id="section_agf_f4b_wqb">
+            <title>Stand in your content  </title>
+            <p/>
+        </section>
+        <section id="section_hg5_hfb_wqb">
+            <title>Managing the disruption/benefit trade-offs </title>
+            <p/>
+        </section>
+    </conbody>
+</concept>
