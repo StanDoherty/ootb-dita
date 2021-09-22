@@ -1,4 +1,5 @@
 Intro 
+
 Goal = know the boundaries
 - make informed decisions about where to invest and  where not. 
 - Know boundaries of each component
