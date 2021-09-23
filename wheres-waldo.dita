@@ -1,23 +1,119 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="concept_q5w_lfq_5qb">
-    <title>Where's Waldo?</title>
+    <title>Who's your daddy?</title>
     <shortdesc>Where are coming from? Where are going? How quickly?</shortdesc>
     <conbody>
-        <p>Matrix - </p>
-        <ul id="ul_uhm_pfq_5qb">
-            <li>
-                <p>Linear unstructured</p>
-            </li>
-            <li>
-                <p>Linear structured</p>
-            </li>
-            <li>
-                <p>Modular unstructured</p>
-            </li>
-            <li>
-                <p>Modular structured</p>
-            </li>
-        </ul>
+        <section id="section_hjd_nh3_1rb"><p/><p/><p>Do you control your content strategy or does it
+                control you? If you know where your content is currently and what it costs to move
+                it to another architecture, you have the option to control your strategy.
+                </p><p>Matrix - </p><image href="images/whos-your-daddy.jpg" id="image_w1p_pd3_1rb">
+                <alt>Who'syour daddy?</alt>
+            </image></section>
+        <section id="section_sbw_hf3_1rb">
+            <title>Identifiers</title>
+            <p/>
+            <simpletable frame="all" relcolwidth="1.0* 2.7*" id="simpletable_px4_mf3_1rb">
+                <sthead>
+                    <stentry>
+                        <p>Identifiers</p>
+                    </stentry>
+                    <stentry>
+                        <p>Description</p>
+                    </stentry>
+                </sthead>
+                <strow>
+                    <stentry>
+                        <p>Structured</p>
+                    </stentry>
+                    <stentry>
+                        <p/>
+                    </stentry>
+                </strow>
+                <strow>
+                    <stentry>
+                        <p>Unstructured</p>
+                    </stentry>
+                    <stentry>
+                        <p/>
+                    </stentry>
+                </strow>
+                <strow>
+                    <stentry>
+                        <p>Linear</p>
+                    </stentry>
+                    <stentry>
+                        <p/>
+                    </stentry>
+                </strow>
+                <strow>
+                    <stentry>
+                        <p>Modular</p>
+                    </stentry>
+                    <stentry>
+                        <p/>
+                    </stentry>
+                </strow>
+            </simpletable>
+        </section>
+        <section id="section_nht_2f3_1rb">
+            <ul id="ul_uhm_pfq_5qb">
+                <li>
+                    <p>Linear unstructured</p>
+                    <image href="images/quandrants_linear-unstructured.svg" placement="break"
+                        id="image_ojj_vg3_1rb" scale="25">
+                        <alt>Linear unstructured</alt>
+                    </image>
+                </li>
+                <li>
+                    <p>Linear structured</p>
+                    <image href="images/quandrants_linear-structured.svg" placement="break"
+                        id="image_jgp_1h3_1rb" scale="25">
+                        <alt>Linear structured</alt>
+                    </image>
+                </li>
+                <li>
+                    <p>Modular unstructured</p>
+                    <image href="images/quandrants_modular-unstructured.svg" placement="break"
+                        id="image_hpn_dh3_1rb" scale="25">
+                        <alt>Modular unstructured</alt>
+                    </image>
+                </li>
+                <li>
+                    <p>Modular structured</p>
+                    <image href="images/quandrants_modular-structured.svg" placement="break"
+                        id="image_dnt_jh3_1rb" scale="25">
+                        <alt>Modular structured</alt>
+                    </image>
+                </li>
+            </ul>
+        </section>
+        <section id="section_tvv_yf3_1rb">
+            <title>Transitions</title>
+            <p/>
+            <ul id="ul_b1g_cg3_1rb">
+                <li>
+                    <p>Unstructured linear to structured linear</p>
+                </li>
+                <li>
+                    <p>Unstructured linear to unstructured modular</p>
+                </li>
+                <li>
+                    <p>Unstructured modular to structured modular</p>
+                </li>
+                <li>
+                    <p>Structured linear to structured modular</p>
+                </li>
+                <li>
+                    <p/>
+                </li>
+                <li>
+                    <p/>
+                </li>
+                <li>
+                    <p/>
+                </li>
+            </ul>
+        </section>
     </conbody>
 </concept>

@@ -1,8 +1,93 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="topic_rdr_psn_qqb">
-    <title>DITA boundaries - </title>
+    <title>DITA boundaries </title>
     <body>
-        <p></p>
+        <p>I count 22 "What is DITA?" articles. You don't really see articles or presentations on
+            "What is Paligo?" or "What is MadCap Flare?"   </p>
+        <section id="section_tqb_vzh_1rb">
+            <title>Open source technologies</title>
+            <p/>
+        </section>
+        <ul id="ul_exf_pzh_1rb">
+            <li>
+                <p>OASIS DITA 1.3 Spec (XML markup)</p>
+            </li>
+            <li>
+                <p>OASIS DITA 1.3 reference implementations</p>
+            </li>
+            <li>
+                <p>DITA-OT</p>
+            </li>
+            <li>
+                <p>Git or SVN</p>
+            </li>
+            <li>
+                <p>Schematron</p>
+            </li>
+            <li>
+                <p>Jenkins</p>
+            </li>
+            <li>
+                <p/>
+            </li>
+            <li>
+                <p/>
+            </li>
+        </ul>
+        <section id="section_fcc_zb3_1rb">
+            <title>Open source DITA content</title>
+            <p/>
+            <ul id="ul_gcc_zb3_1rb">
+                <li>
+                    <p>DITA editor: Oxygen </p>
+                </li>
+                <li>
+                    <p>DITA editor: Framemaker </p>
+                </li>
+                <li>
+                    <p>DITA editor: XMetal </p>
+                </li>
+                <li>
+                    <p/>
+                </li>
+                <li>
+                    <p/>
+                </li>
+                <li>
+                    <p/>
+                </li>
+                <li>
+                    <p/>
+                </li>
+            </ul>
+        </section>
+        <section id="section_k1g_wzh_1rb">
+            <title>Commercial technologies</title>
+            <p/>
+            <ul id="ul_tsd_xzh_1rb">
+                <li>
+                    <p>DITA editor: Oxygen </p>
+                </li>
+                <li>
+                    <p>DITA editor: Framemaker </p>
+                </li>
+                <li>
+                    <p>DITA editor: XMetal </p>
+                </li>
+                <li>
+                    <p/>
+                </li>
+                <li>
+                    <p/>
+                </li>
+                <li>
+                    <p/>
+                </li>
+                <li>
+                    <p/>
+                </li>
+            </ul>
+        </section>
     </body>
 </topic>

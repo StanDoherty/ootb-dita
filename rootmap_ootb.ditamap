@@ -12,8 +12,17 @@
         <topicref href="laws-of-dita.dita"/>
         <topicref href="scalability.dita"/>
         <topicref href="happiness.dita"/>
+        <topicref href="granularity.dita"/>
+        <topicref href="code-talks.dita"/>
         <topicref href="people-stuff.dita"/>
-        <topicref href="top10_intro.dita"/>
+        <topicref href="top10_intro.dita">
+            <topicref href="semantic-markup.dita"/>
+            <topicref href="info-typing-topic-typing.dita"/>
+            <topicref href="conditions.dita"/>
+            <topicref href="keys.dita"/>
+            <topicref href="maps.dita"/>
+            <topicref href="content-referencing.dita"/>
+        </topicref>
         <topicref href="audience-roles.dita"/>
         <topicref href="formulaic-writing.dita"/>
         <topicref href="taleof2ditas.dita"/>
