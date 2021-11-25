@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_p1q_lrd_srb">
+    <title>Introduction</title>
+    <shortdesc>As books about DITA go, this will be an odd one. </shortdesc>
+    <conbody>
+        <p></p>
+        <simpletable frame="all" relcolwidth="1* 1* 1* 1* 1* 1* 1* 1* 1*"
+            id="simpletable_tmf_xrd_srb">
+            <sthead>
+                <stentry>
+                    <p>Genre</p>
+                </stentry>
+                <stentry>
+                    <p>Examples</p>
+                </stentry>
+                <stentry>
+                    <p>Tool implementers</p>
+                </stentry>
+                <stentry>
+                    <p>Implementation Consultants</p>
+                </stentry>
+                <stentry>
+                    <p>Information Architects</p>
+                </stentry>
+                <stentry>
+                    <p>DITA Training Consultants</p>
+                </stentry>
+                <stentry>
+                    <p>Writers</p>
+                </stentry>
+                <stentry>
+                    <p>Managers</p>
+                </stentry>
+                <stentry>
+                    <p/>
+                </stentry>
+            </sthead>
+            <strow>
+                <stentry>
+                    <p>XML language spec</p>
+                </stentry>
+                <stentry>
+                    <p/>
+                </stentry>
+                <stentry>
+                    <p/>
+                </stentry>
+                <stentry>
+                    <p/>
+                </stentry>
+                <stentry>
+                    <p/>
+                </stentry>
+                <stentry/>
+                <stentry>
+                    <p/>
+                </stentry>
+                <stentry>
+                    <p/>
+                </stentry>
+                <stentry>
+                    <p/>
+                </stentry>
+            </strow>
+            <strow>
+                <stentry>
+                    <p>DITA introductions</p>
+                </stentry>
+                <stentry>
+                    <p/>
+                </stentry>
+                <stentry>
+                    <p/>
+                </stentry>
+                <stentry>
+                    <p/>
+                </stentry>
+                <stentry>
+                    <p/>
+                </stentry>
+                <stentry/>
+                <stentry>
+                    <p/>
+                </stentry>
+                <stentry>
+                    <p/>
+                </stentry>
+                <stentry>
+                    <p/>
+                </stentry>
+            </strow>
+            <strow>
+                <stentry>
+                    <p>DITA tutorials</p>
+                    <p/>
+                </stentry>
+                <stentry>
+                    <p/>
+                </stentry>
+                <stentry>
+                    <p/>
+                </stentry>
+                <stentry>
+                    <p/>
+                </stentry>
+                <stentry>
+                    <p/>
+                </stentry>
+                <stentry/>
+                <stentry>
+                    <p/>
+                </stentry>
+                <stentry>
+                    <p/>
+                </stentry>
+                <stentry>
+                    <p/>
+                </stentry>
+            </strow>
+            <strow>
+                <stentry>
+                    <p>DITA programming guides</p>
+                </stentry>
+                <stentry>
+                    <p/>
+                </stentry>
+                <stentry>
+                    <p/>
+                </stentry>
+                <stentry>
+                    <p/>
+                </stentry>
+                <stentry>
+                    <p/>
+                </stentry>
+                <stentry/>
+                <stentry>
+                    <p/>
+                </stentry>
+                <stentry>
+                    <p/>
+                </stentry>
+                <stentry>
+                    <p/>
+                </stentry>
+            </strow>
+            <strow>
+                <stentry>
+                    <p/>
+                </stentry>
+                <stentry>
+                    <p/>
+                </stentry>
+                <stentry>
+                    <p/>
+                </stentry>
+                <stentry>
+                    <p/>
+                </stentry>
+                <stentry>
+                    <p/>
+                </stentry>
+                <stentry/>
+                <stentry>
+                    <p/>
+                </stentry>
+                <stentry>
+                    <p/>
+                </stentry>
+                <stentry>
+                    <p/>
+                </stentry>
+            </strow>
+            <strow>
+                <stentry>
+                    <p/>
+                </stentry>
+                <stentry>
+                    <p/>
+                </stentry>
+                <stentry>
+                    <p/>
+                </stentry>
+                <stentry>
+                    <p/>
+                </stentry>
+                <stentry>
+                    <p/>
+                </stentry>
+                <stentry/>
+                <stentry>
+                    <p/>
+                </stentry>
+                <stentry>
+                    <p/>
+                </stentry>
+                <stentry>
+                    <p/>
+                </stentry>
+            </strow>
+        </simpletable>
+        <p>In Adoption TC, often observed that people considering DITA had many options for learning
+            DITA markup at a basic level and also for learning how to specialize/customize it – but
+            very little in the middle. Very little by way of best practices guides or
+            intermediate-level XML language specification </p>
+        <p>Missing concepts / academia / business case / bare minimum feature set</p>
+        <p>This book is intended to address several of these topics based on my own experience,
+            feedback that the ATC received, and feedback from many other DITA practitioners who
+            reviewed this book. Are there any guarantees that everything here will be applicable to
+            your work environment – hell no, but it will provide a framework for you to  . . . l  </p>
+        <ul id="ul_a1v_srd_srb">
+            <li>
+                <p/>
+            </li>
+            <li>
+                <p/>
+            </li>
+            <li>
+                <p/>
+            </li>
+            <li>
+                <p/>
+            </li>
+            <li>
+                <p/>
+            </li>
+        </ul>
+    </conbody>
+</concept>
